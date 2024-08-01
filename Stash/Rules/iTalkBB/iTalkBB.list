@@ -1,0 +1,9 @@
+# NAME: iTalkBB
+# UPDATED: 2024-07-03 16:16:16
+# DOMAIN-SUFFIX: 3
+# PROCESS-NAME: 1
+# TOTAL: 4
+DOMAIN-SUFFIX,api.tv.colnv.com
+DOMAIN-SUFFIX,italkbb.com
+DOMAIN-SUFFIX,italkbbtv.com
+PROCESS-NAME,com.italkbbtv.phone

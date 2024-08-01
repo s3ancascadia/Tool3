@@ -1,0 +1,8 @@
+# NAME: Emojipedia
+# UPDATED: 2024-07-03 16:16:52
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+payload:
+  - DOMAIN-SUFFIX,emojipedia.org
+  - DOMAIN-SUFFIX,worldemojiawards.com
+  - DOMAIN-SUFFIX,worldemojiday.com

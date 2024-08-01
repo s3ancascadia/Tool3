@@ -1,0 +1,8 @@
+# NAME: NaverTV
+# UPDATED: 2024-07-03 16:16:59
+# HOST-SUFFIX: 2
+# USER-AGENT: 1
+# TOTAL: 3
+HOST-SUFFIX,naver.com,NaverTV
+HOST-SUFFIX,smartmediarep.com,NaverTV
+USER-AGENT,Naver%20TV*,NaverTV

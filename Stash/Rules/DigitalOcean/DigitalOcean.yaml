@@ -1,0 +1,9 @@
+# NAME: DigitalOcean
+# UPDATED: 2024-07-03 16:17:45
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,digitalocean.com
+  - DOMAIN-SUFFIX,digitaloceanspaces.com
+  - DOMAIN-SUFFIX,do.co
+  - DOMAIN-SUFFIX,nginxconfig.io

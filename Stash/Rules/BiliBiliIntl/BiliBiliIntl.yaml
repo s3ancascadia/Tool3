@@ -1,0 +1,8 @@
+# NAME: BiliBiliIntl
+# UPDATED: 2024-07-03 16:17:00
+# DOMAIN-SUFFIX: 1
+# PROCESS-NAME: 1
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,bilibili.tv
+  - PROCESS-NAME,com.bstar.intl

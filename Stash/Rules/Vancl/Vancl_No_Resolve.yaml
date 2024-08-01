@@ -1,0 +1,8 @@
+# NAME: Vancl
+# UPDATED: 2024-07-03 16:16:47
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+payload:
+  - DOMAIN-SUFFIX,vancl.com
+  - DOMAIN-SUFFIX,vanclimg.com
+  - DOMAIN-SUFFIX,vcimg.com

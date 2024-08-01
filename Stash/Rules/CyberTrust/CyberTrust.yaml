@@ -1,0 +1,7 @@
+# NAME: CyberTrust
+# UPDATED: 2024-01-08 16:02:55
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,cybertrust.co.jp
+  - DOMAIN-SUFFIX,cybertrust.ne.jp

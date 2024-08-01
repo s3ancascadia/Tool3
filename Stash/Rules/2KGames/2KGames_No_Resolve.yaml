@@ -1,0 +1,9 @@
+# NAME: 2KGames
+# UPDATED: 2024-01-08 16:02:56
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,2k.com
+  - DOMAIN-SUFFIX,2kcoretech.online
+  - DOMAIN-SUFFIX,2kgames.com
+  - DOMAIN-SUFFIX,take2games.com

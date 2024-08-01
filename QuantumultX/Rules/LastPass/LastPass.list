@@ -1,0 +1,7 @@
+# NAME: LastPass
+# UPDATED: 2024-07-03 16:16:11
+# HOST-SUFFIX: 1
+# USER-AGENT: 1
+# TOTAL: 2
+HOST-SUFFIX,lastpass.com,LastPass
+USER-AGENT,LastPass*,LastPass

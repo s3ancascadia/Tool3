@@ -1,0 +1,9 @@
+# NAME: Classic
+# UPDATED: 2024-07-03 16:16:57
+# DOMAIN: 4
+# TOTAL: 4
+payload:
+  - DOMAIN,asia.battle.net
+  - DOMAIN,europe.battle.net
+  - DOMAIN,useast.battle.net
+  - DOMAIN,uswest.battle.net

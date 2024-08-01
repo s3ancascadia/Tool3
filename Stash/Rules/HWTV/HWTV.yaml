@@ -1,0 +1,7 @@
+# NAME: HWTV
+# UPDATED: 2024-07-03 16:16:13
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,5itv.tv
+  - DOMAIN-SUFFIX,ocnttv.com

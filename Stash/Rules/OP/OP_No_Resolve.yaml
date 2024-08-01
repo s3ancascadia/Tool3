@@ -1,0 +1,7 @@
+# NAME: OP
+# UPDATED: 2024-07-03 16:14:50
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,op.gg
+  - DOMAIN-SUFFIX,opgg-static.akamaized.net

@@ -1,0 +1,8 @@
+# NAME: AmazonTrust
+# UPDATED: 2024-01-08 16:02:58
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+payload:
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,awstrust.com
+  - DOMAIN-SUFFIX,ss2.us

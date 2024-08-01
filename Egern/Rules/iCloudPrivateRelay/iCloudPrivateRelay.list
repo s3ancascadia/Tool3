@@ -1,0 +1,11 @@
+# NAME: iCloudPrivateRelay
+# UPDATED: 2024-01-08 16:01:32
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 2
+# TOTAL: 6
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-t.apple-dns.net
+DOMAIN,mask.apple-dns.net
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com

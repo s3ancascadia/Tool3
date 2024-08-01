@@ -1,0 +1,7 @@
+# NAME: FitnessPlus
+# UPDATED: 2024-07-03 16:14:52
+# DOMAIN: 2
+# TOTAL: 2
+payload:
+  - DOMAIN,amp-api.fitness.apple.com
+  - DOMAIN,hls-svod.itunes.apple.com

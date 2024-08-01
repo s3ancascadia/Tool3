@@ -1,0 +1,10 @@
+# NAME: ITV
+# UPDATED: 2024-07-03 16:16:14
+# HOST: 1
+# HOST-SUFFIX: 2
+# USER-AGENT: 1
+# TOTAL: 4
+HOST,itvpnpmobile-a.akamaihd.net,ITV
+HOST-SUFFIX,itv.com,ITV
+HOST-SUFFIX,itvstatic.com,ITV
+USER-AGENT,ITV_Player*,ITV

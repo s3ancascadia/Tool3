@@ -1,0 +1,8 @@
+# NAME: YouZan
+# UPDATED: 2024-07-03 16:16:48
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+payload:
+  - DOMAIN-SUFFIX,youzan.com
+  - DOMAIN-SUFFIX,youzanyun.com
+  - DOMAIN-SUFFIX,yzcdn.cn

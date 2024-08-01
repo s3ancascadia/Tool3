@@ -1,0 +1,7 @@
+# NAME: DangDang
+# UPDATED: 2024-07-03 16:16:40
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,dangdang.com
+  - DOMAIN-SUFFIX,ddimg.cn

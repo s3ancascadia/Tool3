@@ -1,0 +1,9 @@
+# NAME: ChengTongWangPan
+# UPDATED: 2024-07-03 16:17:01
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,ctfile.com
+  - DOMAIN-SUFFIX,ctfile.net
+  - DOMAIN-SUFFIX,n802.com
+  - DOMAIN-SUFFIX,tv002.com

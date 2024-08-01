@@ -1,0 +1,5 @@
+#!name=Amazon MITM (1)
+#!desc=最后更新时间 2024-07-03 16:16:12
+
+[MITM]
+hostname = www.amazon.com

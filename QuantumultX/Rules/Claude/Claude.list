@@ -1,0 +1,8 @@
+# NAME: Claude
+# UPDATED: 2024-07-03 16:18:28
+# HOST: 1
+# HOST-SUFFIX: 2
+# TOTAL: 3
+HOST,cdn.usefathom.com,Claude
+HOST-SUFFIX,anthropic.com,Claude
+HOST-SUFFIX,claude.ai,Claude

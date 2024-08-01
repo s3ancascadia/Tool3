@@ -1,0 +1,7 @@
+# NAME: Contentful
+# UPDATED: 2024-01-08 16:02:53
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,contentful.com
+  - DOMAIN-SUFFIX,ctfassets.net

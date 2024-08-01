@@ -1,0 +1,8 @@
+# NAME: ChinaNews
+# UPDATED: 2024-07-03 16:16:40
+# HOST-SUFFIX: 4
+# TOTAL: 4
+HOST-SUFFIX,chinanews.com,ChinaNews
+HOST-SUFFIX,chinanews.com.cn,ChinaNews
+HOST-SUFFIX,cns.com.cn,ChinaNews
+HOST-SUFFIX,ecns.cn,ChinaNews

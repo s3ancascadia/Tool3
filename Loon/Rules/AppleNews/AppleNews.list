@@ -1,0 +1,9 @@
+# NAME: AppleNews
+# UPDATED: 2024-07-03 16:14:52
+# DOMAIN: 2
+# USER-AGENT: 2
+# TOTAL: 4
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*

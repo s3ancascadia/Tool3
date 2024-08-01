@@ -1,0 +1,9 @@
+# NAME: Fiio
+# UPDATED: 2024-07-03 16:16:41
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,fiio.cn
+  - DOMAIN-SUFFIX,fiio.com
+  - DOMAIN-SUFFIX,fiio.com.cn
+  - DOMAIN-SUFFIX,fiio.net

@@ -1,0 +1,8 @@
+# NAME: Atomdata
+# UPDATED: 2024-01-08 16:02:53
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+payload:
+  - DOMAIN-SUFFIX,analytics-data.io
+  - DOMAIN-SUFFIX,atom-data.io
+  - DOMAIN-SUFFIX,ironbeast.io

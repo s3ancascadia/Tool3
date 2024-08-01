@@ -1,0 +1,9 @@
+# NAME: HuYa
+# UPDATED: 2024-07-03 16:16:42
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,huya.com
+  - DOMAIN-SUFFIX,huyagame.cn
+  - DOMAIN-SUFFIX,peiwanlu.com
+  - DOMAIN-SUFFIX,snapplay.com

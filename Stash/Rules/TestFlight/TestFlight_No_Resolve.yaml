@@ -1,0 +1,9 @@
+# NAME: TestFlight
+# UPDATED: 2024-07-03 16:14:52
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 1
+# TOTAL: 3
+payload:
+  - DOMAIN,beta.apple.com
+  - DOMAIN,testflight.apple.com
+  - DOMAIN-KEYWORD,testflight

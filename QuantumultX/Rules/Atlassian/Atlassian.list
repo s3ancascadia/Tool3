@@ -1,0 +1,9 @@
+# NAME: Atlassian
+# UPDATED: 2024-07-03 16:16:50
+# HOST-SUFFIX: 5
+# TOTAL: 5
+HOST-SUFFIX,atlassian.com,Atlassian
+HOST-SUFFIX,bitbucket.org,Atlassian
+HOST-SUFFIX,statuspage.io,Atlassian
+HOST-SUFFIX,trello.com,Atlassian
+HOST-SUFFIX,trellocdn.com,Atlassian

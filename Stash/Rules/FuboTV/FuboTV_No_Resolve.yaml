@@ -1,0 +1,7 @@
+# NAME: FuboTV
+# UPDATED: 2024-07-03 16:17:01
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,fubo.tv
+  - DOMAIN-SUFFIX,fubotv.com

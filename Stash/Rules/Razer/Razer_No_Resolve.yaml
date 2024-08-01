@@ -1,0 +1,7 @@
+# NAME: Razer
+# UPDATED: 2024-07-03 16:16:55
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,razer.com
+  - DOMAIN-SUFFIX,razerzone.com

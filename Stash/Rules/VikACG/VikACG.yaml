@@ -1,0 +1,7 @@
+# NAME: VikACG
+# UPDATED: 2024-07-03 16:17:59
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,picjs.xyz
+  - DOMAIN-SUFFIX,vikacg.com

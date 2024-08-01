@@ -1,0 +1,9 @@
+# NAME: ChinaNews
+# UPDATED: 2024-07-03 16:16:40
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,chinanews.com
+  - DOMAIN-SUFFIX,chinanews.com.cn
+  - DOMAIN-SUFFIX,cns.com.cn
+  - DOMAIN-SUFFIX,ecns.cn

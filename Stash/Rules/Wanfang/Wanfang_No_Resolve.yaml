@@ -1,0 +1,7 @@
+# NAME: Wanfang
+# UPDATED: 2024-01-08 16:02:54
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,wanfangdata.com.cn
+  - DOMAIN-SUFFIX,wf.pub

@@ -1,0 +1,11 @@
+# NAME: Clubhouse
+# UPDATED: 2024-07-03 16:16:49
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 3
+# TOTAL: 5
+payload:
+  - DOMAIN,clubhouse.pubnub.com
+  - DOMAIN,clubhouseprod.s3.amazonaws.com
+  - DOMAIN-SUFFIX,clubhouse.com
+  - DOMAIN-SUFFIX,clubhouseapi.com
+  - DOMAIN-SUFFIX,joinclubhouse.com

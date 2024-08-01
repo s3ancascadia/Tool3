@@ -1,0 +1,8 @@
+# NAME: Deezer
+# UPDATED: 2024-07-03 16:16:13
+# HOST-SUFFIX: 2
+# USER-AGENT: 1
+# TOTAL: 3
+HOST-SUFFIX,deezer.com,Deezer
+HOST-SUFFIX,dzcdn.net,Deezer
+USER-AGENT,Deezer*,Deezer

@@ -1,0 +1,7 @@
+# NAME: Disqus
+# UPDATED: 2024-07-03 16:16:51
+# HOST-SUFFIX: 3
+# TOTAL: 3
+HOST-SUFFIX,disqus.com,Disqus
+HOST-SUFFIX,disquscdn.com,Disqus
+HOST-SUFFIX,disqusservice.com,Disqus

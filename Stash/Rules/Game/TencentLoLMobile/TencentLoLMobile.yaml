@@ -1,0 +1,8 @@
+# NAME: TencentLoLMobile
+# UPDATED: 2024-07-03 16:17:44
+# DOMAIN-SUFFIX: 3
+# TOTAL: 3
+payload:
+  - DOMAIN-SUFFIX,riotcdn.net
+  - DOMAIN-SUFFIX,riotgames.com
+  - DOMAIN-SUFFIX,wr.pvp.net

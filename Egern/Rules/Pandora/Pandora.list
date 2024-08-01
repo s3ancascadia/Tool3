@@ -1,0 +1,8 @@
+# NAME: Pandora
+# UPDATED: 2024-07-03 16:16:15
+# DOMAIN-SUFFIX: 2
+# USER-AGENT: 1
+# TOTAL: 3
+DOMAIN-SUFFIX,p-cdn.us
+DOMAIN-SUFFIX,pandora.com
+USER-AGENT,Pandora*

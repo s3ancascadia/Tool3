@@ -1,0 +1,15 @@
+# NAME: HanYi
+# UPDATED: 2024-07-03 16:16:42
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 7
+# TOTAL: 9
+payload:
+  - DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
+  - DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
+  - DOMAIN-SUFFIX,fontstar.com.cn
+  - DOMAIN-SUFFIX,fontstudio.cn
+  - DOMAIN-SUFFIX,hanyi.com
+  - DOMAIN-SUFFIX,hanyi.com.cn
+  - DOMAIN-SUFFIX,hellowebfont.com
+  - DOMAIN-SUFFIX,ifont.cn
+  - DOMAIN-SUFFIX,joytype.com

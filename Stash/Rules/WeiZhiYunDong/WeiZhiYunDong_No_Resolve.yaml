@@ -1,0 +1,11 @@
+# NAME: WeiZhiYunDong
+# UPDATED: 2024-07-03 16:16:58
+# DOMAIN: 1
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
+payload:
+  - DOMAIN,weizhiyundong.list
+  - DOMAIN-SUFFIX,dicom365.com
+  - DOMAIN-SUFFIX,dycom365.com
+  - DOMAIN-SUFFIX,wedcm.com
+  - DOMAIN-SUFFIX,weiyunyingxiang.com

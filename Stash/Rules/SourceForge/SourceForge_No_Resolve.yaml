@@ -1,0 +1,9 @@
+# NAME: SourceForge
+# UPDATED: 2024-07-03 16:16:56
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,fsdn.com
+  - DOMAIN-SUFFIX,sf.net
+  - DOMAIN-SUFFIX,sourceforge.com
+  - DOMAIN-SUFFIX,sourceforge.net

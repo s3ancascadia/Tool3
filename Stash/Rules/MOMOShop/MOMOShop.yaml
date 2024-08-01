@@ -1,0 +1,9 @@
+# NAME: MOMOShop
+# UPDATED: 2024-07-03 16:17:00
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,momo.dm
+  - DOMAIN-SUFFIX,momo5188.com
+  - DOMAIN-SUFFIX,momomall.com.tw
+  - DOMAIN-SUFFIX,momoshop.com.tw
