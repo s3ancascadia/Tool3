@@ -15,17 +15,17 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
-最后更新时间：2024-07-28 02:13:10
+最后更新时间：2024-08-03 02:12:57
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 428  | 
+| DOMAIN | 426  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 90020  | 
+| DOMAIN-SUFFIX | 91009  | 
 | DOMAIN-WILDCARD | 1  | 
 | USER-AGENT(Egern不支持) | 65  | 
-| TOTAL(仅供参考) | 90527  | 
+| TOTAL(仅供参考) | 91514  | 
 
 
 ## Egern 
