@@ -1,8 +1,8 @@
 # NAME: ChinaIPs
-# UPDATED: 2024-08-03 02:11:55
-# IP-CIDR: 16982
+# UPDATED: 2024-08-04 02:10:58
+# IP-CIDR: 16983
 # IP-CIDR6: 4761
-# TOTAL: 21743
+# TOTAL: 21744
 payload:
   - IP-CIDR,1.0.1.0/24,no-resolve
   - IP-CIDR,1.0.2.0/23,no-resolve
@@ -2953,6 +2953,7 @@ payload:
   - IP-CIDR,103.250.248.0/21,no-resolve
   - IP-CIDR,103.250.248.0/22,no-resolve
   - IP-CIDR,103.250.252.0/22,no-resolve
+  - IP-CIDR,103.250.252.0/24,no-resolve
   - IP-CIDR,103.250.32.0/22,no-resolve
   - IP-CIDR,103.251.124.0/22,no-resolve
   - IP-CIDR,103.251.128.0/22,no-resolve

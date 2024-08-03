@@ -11,7 +11,6 @@ domain_set:
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
-- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -31,7 +30,6 @@ domain_set:
 - new-line.net
 - nyaa.tracker.wf
 - odd-hd.fr
-- oh.fuuuuuck.com
 - open.demonii.com
 - open.demonoid.ch
 - open.dstud.io
@@ -46,9 +44,7 @@ domain_set:
 - p2p.publictracker.xyz
 - p4p.arenabg.com
 - public.publictracker.xyz
-- public.tracker.vraphim.com
 - pybittrack.retiolus.net
-- region.nl1.privex.cc
 - retracker.hotplug.ru
 - retracker.lanta.me
 - retracker.x2k.ru
@@ -66,15 +62,16 @@ domain_set:
 - tk2v6.trackerservers.com
 - torrents.artixlinux.org
 - torrentsmd.com
+- tr.abir.ga
 - tr.burnabyhighstar.com
 - tr.kxmp.cf
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
 - tracker.0x7c0.com
 - tracker.birkenwald.de
-- tracker.bittor.pw
 - tracker.breizh.pm
 - tracker.bt4g.com
+- tracker.ccp.ovh
 - tracker.cloudit.top
 - tracker.cyberia.is
 - tracker.darkness.services
@@ -117,13 +114,11 @@ domain_set:
 - tracker1.bt.moack.co.kr
 - tracker1.itzmx.com
 - tracker1.myporn.club
-- tracker1.t-1.org
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
 - tracker3.t-1.org
 - tracker4.itzmx.com
-- trackers.mlsub.net
 - trackers.run
 - ttk2.nbaonlineservice.com
 - u.peer-exchange.download

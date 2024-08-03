@@ -1,11 +1,11 @@
 # NAME: Advertising
-# UPDATED: 2024-08-03 02:08:45
+# UPDATED: 2024-08-04 02:07:53
 # DOMAIN: 16327
 # DOMAIN-KEYWORD: 260
-# DOMAIN-SUFFIX: 135277
+# DOMAIN-SUFFIX: 135298
 # IP-CIDR: 445
 # IP-CIDR6: 1
-# TOTAL: 152310
+# TOTAL: 152331
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.34
@@ -24837,6 +24837,7 @@ play.kakao.com
 .analytics-debugger.com
 .analytics-egain.com
 .analytics-events.inshorts.com
+.analytics-fe.digital-cloud.medallia.eu
 .analytics-gateway.delta.dp.lightricks.com
 .analytics-helper.com
 .analytics-ingestion.pbpms.de
@@ -24845,6 +24846,7 @@ play.kakao.com
 .analytics-ingress.bitmovin.com
 .analytics-logger.service.junctiontv.net
 .analytics-mkt.wemakeprice.com
+.analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 .analytics-sdk.yle.fi
 .analytics-server.gimbal.com
 .analytics-sm.com
@@ -26765,6 +26767,7 @@ play.kakao.com
 .aulsidakr.com
 .aulteeby.net
 .aultesou.net
+.aultopurg.xyz
 .aultseemedto.xyz
 .aumaupoy.net
 .aumeryyaruran.live
@@ -27886,7 +27889,6 @@ play.kakao.com
 .bannerignition.co.za
 .bannerimage.com
 .bannerimages.0catch.com
-.bannerlandia.com.ar
 .bannerlot.com
 .bannermall.com
 .bannermanager.bnr.bg
@@ -28825,6 +28827,7 @@ play.kakao.com
 .beopinion.com
 .bepapersurmise.space
 .beparaspr.com
+.bepawrepave.com
 .bephungoagno.com
 .bepilelaities.com
 .bepmrb.xyz
@@ -30759,6 +30762,7 @@ play.kakao.com
 .bravo.israelinfo.ru
 .bravospots.com
 .bravotrk.com
+.brawerverism.com
 .brawlperennialcalumny.com
 .braze.com
 .braze.eu
@@ -33423,6 +33427,7 @@ play.kakao.com
 .chaubseet.com
 .chauckee.net
 .chauckoo.xyz
+.chaudoubeets.net
 .chaudrep.net
 .chaugroo.net
 .chauinubbins.com
@@ -42147,6 +42152,7 @@ play.kakao.com
 .dvjkmskks.xyz
 .dvkbfj.cn
 .dvklfkssxirup.xyz
+.dvkxchzb.com
 .dvl8xapgpqgc1.cloudfront.net
 .dvmdwmnyj3u4h.cloudfront.net
 .dvnfo.com
@@ -42379,6 +42385,7 @@ play.kakao.com
 .e007499ca9.com
 .e076.xyz
 .e0a79821ec.com
+.e0ad1f3ca8.com
 .e0e5bc8f81.com
 .e0n.cn
 .e1.wetterkameras.com
@@ -42441,6 +42448,7 @@ play.kakao.com
 .e8100325bc.com
 .e822e00470.com
 .e89dafb480.com
+.e8e2063b.xyz
 .e8f6c9133b.com
 .e91c222079.com
 .e954669112.com
@@ -43746,6 +43754,7 @@ play.kakao.com
 .energeticladybug.com
 .energeticrecognisepostcard.com
 .energypopulationpractical.com
+.eneughghaffir.com
 .eneverals.biz
 .eneverseen.org
 .enews10.yxlady.net
@@ -44222,6 +44231,7 @@ play.kakao.com
 .erringstartdelinquent.com
 .errolandtessa.com
 .error-tracking.arvancloud.com
+.error-tracking.reddit.com
 .errorfixing.space
 .errorpalpatesake.com
 .errorparasol.com
@@ -47229,6 +47239,7 @@ play.kakao.com
 .foolproofanatomy.com
 .fooluminou.review
 .foomaque.net
+.foonerne.com
 .fooptoat.com
 .foot.wiki
 .footageaccomplishment.com
@@ -49786,6 +49797,7 @@ play.kakao.com
 .gleeglis.net
 .gleegloo.net
 .gleejoad.net
+.gleempithep.com
 .gleemsomto.com
 .gleemsub.com
 .gleeneep.com
@@ -53888,6 +53900,7 @@ play.kakao.com
 .hugenicholas.com
 .hugfromoctopus.com
 .huggerrailly.top
+.huggerslycaena.com
 .hughester.com
 .hughjonah.com
 .hugodeservedautopsy.com
@@ -53914,6 +53927,7 @@ play.kakao.com
 .hulahooprect.com
 .hulichuang.mobi
 .hulledaries.top
+.hulocvvma.com
 .huloxakuxukwduo.xyz
 .hulsairtid.com
 .humaffableconsulate.com
@@ -67693,6 +67707,7 @@ play.kakao.com
 .mytizer.com
 .mytizer.ru
 .mytomatosoup.com
+.mytop-in.net
 .mytopf.com
 .mytrack.pro
 .mytraf.info
@@ -68931,6 +68946,7 @@ play.kakao.com
 .newthbvttskt.xyz
 .newthuads.com
 .newtits.name
+.newton1.ru
 .newtrackmedia.com
 .newtueads.com
 .newvideoapp.pro
@@ -70145,6 +70161,7 @@ play.kakao.com
 .nutchaungong.com
 .nutga.com
 .nutgxfwechkcuf.com
+.nutiipwkk.com
 .nutkaekwcm.ru
 .nutletcorvees.com
 .nutmegshow.com
@@ -72115,6 +72132,7 @@ play.kakao.com
 .orrisesdepute.com
 .orrmmdsdc.com
 .orrvucstaxip.com
+.orrwavakgqr.com
 .orssengseen.com
 .ortange.fr
 .ortermodown.ru
@@ -75581,6 +75599,7 @@ play.kakao.com
 .polygraphpretenceraw.com
 .polyh-nce.com
 .polymorphicads.jp
+.polypedoutkeep.com
 .polypivulgars.com
 .polyserbdom.com
 .polyvalent.co.in
@@ -80243,6 +80262,7 @@ play.kakao.com
 .reklam8.net
 .reklama.mironet.cz
 .reklama.onet.pl
+.reklama.shinden.eu
 .reklama8.ru
 .reklamaction.com
 .reklamagaci.com
@@ -91896,6 +91916,7 @@ play.kakao.com
 .tingiaitrian.com
 .tingiovang777.com
 .tingiovangvn.com
+.tingisincused.com
 .tingledpredy.com
 .tingleswhisker.top
 .tingrinter.com
@@ -99477,7 +99498,6 @@ play.kakao.com
 .walkerllaw.org
 .walkernewspapers.com
 .walkerscitola.top
-.walkets.click
 .walkinggruff.com
 .walkingtutor.com
 .walknotice.com
@@ -103663,6 +103683,7 @@ play.kakao.com
 .yasmin.4.p2l.info
 .yatab.net
 .yathmoth.com
+.yatr.ru
 .yaudience.com
 .yaupersjejunum.top
 .yauryqvecn.com
