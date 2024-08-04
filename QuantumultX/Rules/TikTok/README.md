@@ -12,16 +12,16 @@ TikTok规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-07-06 02:11:22
+最后更新时间：2024-08-05 02:10:46
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 3  | 
 | HOST-KEYWORD | 2  | 
-| HOST-SUFFIX | 21  | 
+| HOST-SUFFIX | 22  | 
 | USER-AGENT(QuantumultX支持) | 1  | 
-| TOTAL(仅供参考) | 27  | 
+| TOTAL(仅供参考) | 28  | 
 
 
 ## QuantumultX 
