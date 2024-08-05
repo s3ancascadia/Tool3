@@ -1,11 +1,11 @@
 # NAME: Proxy
-# UPDATED: 2024-07-31 02:11:30
+# UPDATED: 2024-08-06 02:11:33
 # DOMAIN: 12
 # DOMAIN-KEYWORD: 28
-# DOMAIN-SUFFIX: 5912
+# DOMAIN-SUFFIX: 5914
 # IP-CIDR: 96
 # IP-CIDR6: 4
-# TOTAL: 6052
+# TOTAL: 6054
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -2624,6 +2624,7 @@ voice.telephony.goog
 +.ivacy.com
 +.iverycd.com
 +.ivpn.net
++.iwara.tv
 +.ixquick.com
 +.ixxx.com
 +.iyouport.com
@@ -4925,6 +4926,7 @@ voice.telephony.goog
 +.tibetswiss.ch
 +.tibettelegraph.com
 +.tibettimes.net
++.tibettruth.com
 +.tibetwrites.org
 +.ticket.com.tw
 +.tigervpn.com

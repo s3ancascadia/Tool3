@@ -1,11 +1,11 @@
 # NAME: Advertising
-# UPDATED: 2024-08-05 02:08:03
+# UPDATED: 2024-08-06 02:08:54
 # DOMAIN: 16327
-# DOMAIN-KEYWORD: 260
-# DOMAIN-SUFFIX: 135314
+# DOMAIN-KEYWORD: 259
+# DOMAIN-SUFFIX: 135331
 # IP-CIDR: 445
 # IP-CIDR6: 1
-# TOTAL: 152347
+# TOTAL: 152363
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.34
@@ -18829,6 +18829,7 @@ play.kakao.com
 +.92ph.cn
 +.92sales.com
 +.930cn.top
++.9354ee72.xyz
 +.935cfb1d3b.com
 +.937744.com
 +.937785.com
@@ -21135,6 +21136,7 @@ play.kakao.com
 +.admilk.ru
 +.admin-vayvonvietthanh.com
 +.admin.digitalacre.com
++.admin.giaminhmedia.vn
 +.admin.hotkeys.com
 +.admin.phunusuckhoe.vn
 +.admin.sothuchi.vn
@@ -21541,6 +21543,7 @@ play.kakao.com
 +.ads.allsites.com
 +.ads.allvertical.com
 +.ads.almasdarnews.com
++.ads.alobacsi.vn
 +.ads.alt.com
 +.ads.amazingmedia.com
 +.ads.amdmb.com
@@ -21754,6 +21757,7 @@ play.kakao.com
 +.ads.gencgazete.net
 +.ads.gercekgundem.com
 +.ads.getlucky.com
++.ads.giaminhmedia.vn
 +.ads.gld.dk
 +.ads.globo.com
 +.ads.go2net.com.ua
@@ -21838,6 +21842,7 @@ play.kakao.com
 +.ads.karzar.net
 +.ads.kelbymediagroup.com
 +.ads.kelkoo.com
++.ads.ketnoitatca.net
 +.ads.kiemsat.vn
 +.ads.kinxxx.com
 +.ads.kmib.co.kr
@@ -22839,6 +22844,7 @@ play.kakao.com
 +.adv.anhsangvacuocsong.vn
 +.adv.autosurf.vn
 +.adv.baoangiang.com.vn
++.adv.baotayninh.vn
 +.adv.baotintuc.vn
 +.adv.baovemoitruong.org.vn
 +.adv.bbanner.it
@@ -24728,6 +24734,7 @@ play.kakao.com
 +.amqxvwmsfn.xyz
 +.amre.work
 +.amrtbbnr.com
++.ams.naturalnews.com
 +.ams900.goo.ne.jp
 +.amshirethfne.xyz
 +.amshroomishan.com
@@ -27459,6 +27466,7 @@ play.kakao.com
 +.ba.afl.rakuten.co.jp
 +.ba01520b8b.com
 +.ba0182aa75.com
++.ba0bf98c.xyz
 +.ba46b70722.com
 +.ba488608ee.com
 +.ba83df6e74.com
@@ -45223,6 +45231,7 @@ play.kakao.com
 +.eytheed.com
 +.eyuwkbw.top
 +.eyyicbskhglf.com
++.eyyngo.xyz
 +.eyyqwd.icu
 +.ezacci.xyz
 +.ezaicmee.xyz
@@ -49336,7 +49345,6 @@ play.kakao.com
 +.gettraff.com
 +.gettraffnews.com
 +.gettubetv.com
-+.getui.net
 +.getuplinks.ru
 +.getupwoleai.com
 +.getvideoz.click
@@ -61302,6 +61310,7 @@ play.kakao.com
 +.letitnews.com
 +.letitredir.com
 +.letitsoft.com
++.letlwsl.top
 +.letmefind.co
 +.letmelook.net
 +.letopreseynatc.org
@@ -79079,6 +79088,7 @@ play.kakao.com
 +.r.yabancidizi.in
 +.r.z2.fm
 +.r.z3.fm
++.r01lacou.azidp.tech
 +.r023m83skv5v.com
 +.r0wa9z6t8t.ru
 +.r1.ati.su
@@ -92888,6 +92898,7 @@ play.kakao.com
 +.tr.apsisforms.com
 +.tr.bigpoint.com
 +.tr.datanyze.com
++.tr.dec-connect.decsuite.com
 +.tr.ds.kakao.com
 +.tr.gunosy.com
 +.tr.infopanel.jp
@@ -93226,6 +93237,7 @@ play.kakao.com
 +.tracking-widget.fillr.com
 +.tracking.1-a1502-bi.co.uk
 +.tracking.10e20.com
++.tracking.10gb.vn
 +.tracking.21-a4652-bi.co.uk
 +.tracking.28-91473-wbm.co.uk
 +.tracking.39-bb4a9-osm.co.uk
@@ -93406,6 +93418,7 @@ play.kakao.com
 +.tracking.realtor.com
 +.tracking.resume.se
 +.tracking.salaallehanda.com
++.tracking.saostar.vn
 +.tracking.sembox.it
 +.tracking.shaadi.com
 +.tracking.shinycolors.enza.fun
@@ -94709,6 +94722,7 @@ play.kakao.com
 +.twentydruggeddumb.com
 +.twentyexaggerate.com
 +.twentyqueen.com
++.twerilxi.top
 +.twerioi.top
 +.twerwew.org
 +.twgzgqqu.com
@@ -94917,6 +94931,7 @@ play.kakao.com
 +.tzvroyuhmkvlsa.com
 +.tzwaw.pw
 +.tzyjotwoocku.com
++.tzyzlow.cn
 +.u-50-rbdm.com
 +.u-ad.info
 +.u-mob.cn
@@ -105510,6 +105525,7 @@ play.kakao.com
 +.zsjxwj.com
 +.zskuvehuihkusp.com
 +.zslhmw.com
++.zsmhlv.zgbv.tech
 +.zsnfdphz.com
 +.zsrqmgvb.com
 +.zswhcsfww.mobi
@@ -110922,6 +110938,7 @@ play.kakao.com
 +.getrockerbox.com
 +.gets.faz.net
 +.getui.com
++.getui.net
 +.gewuwen.com
 +.gf108.com
 +.gf1352.com

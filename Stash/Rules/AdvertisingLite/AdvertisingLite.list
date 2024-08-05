@@ -1,11 +1,11 @@
 # NAME: AdvertisingLite
-# UPDATED: 2024-07-03 16:12:51
-# DOMAIN: 23748
-# DOMAIN-KEYWORD: 189
-# DOMAIN-SUFFIX: 13859
+# UPDATED: 2024-08-06 02:08:17
+# DOMAIN: 23746
+# DOMAIN-KEYWORD: 188
+# DOMAIN-SUFFIX: 13860
 # IP-CIDR: 184
 # IP-CIDR6: 1
-# TOTAL: 37981
+# TOTAL: 37979
 DOMAIN,00-gov.cn
 DOMAIN,0024aadd.com
 DOMAIN,0026645142c89aeb1.com
@@ -8558,7 +8558,6 @@ DOMAIN,getstatistics.se
 DOMAIN,getsupernova.com
 DOMAIN,gettipsz.info
 DOMAIN,gettraff.com
-DOMAIN,getui.net
 DOMAIN,getxml.org
 DOMAIN,getzwnrgsrz.com
 DOMAIN,geusihivdqkwzf.com
@@ -17636,7 +17635,6 @@ DOMAIN,sdgvzdksjbl.com
 DOMAIN,sdillrnslaiyb.com
 DOMAIN,sdk.api.oaid.wocloud.cn
 DOMAIN,sdk.appadhoc.com.bsclink.cn
-DOMAIN,sdk.open.talk.getui.net
 DOMAIN,sdk.zsdfm.com
 DOMAIN,sdk2.youguoquan.com
 DOMAIN,sdkauth.hpplay.cn
@@ -29303,6 +29301,7 @@ DOMAIN-SUFFIX,getnormalizedurl.com
 DOMAIN-SUFFIX,getrockerbox.com
 DOMAIN-SUFFIX,gets.faz.net
 DOMAIN-SUFFIX,getui.com
+DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,gewuwen.com
 DOMAIN-SUFFIX,gf108.com
 DOMAIN-SUFFIX,gf1352.com
@@ -37619,7 +37618,6 @@ DOMAIN-KEYWORD,a.9game.cn
 DOMAIN-KEYWORD,a.wkanx.com
 DOMAIN-KEYWORD,a3.bytecdn.cn
 DOMAIN-KEYWORD,a3.pstatp.com
-DOMAIN-KEYWORD,ad-sign.byteimg.com
 DOMAIN-KEYWORD,ad.api.moji.com
 DOMAIN-KEYWORD,ad.ihuman.com
 DOMAIN-KEYWORD,ad.toutiao.com

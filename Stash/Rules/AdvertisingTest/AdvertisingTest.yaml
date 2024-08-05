@@ -1,11 +1,11 @@
 # NAME: AdvertisingTest
-# UPDATED: 2024-08-05 02:09:10
+# UPDATED: 2024-08-06 02:09:59
 # DOMAIN: 12848
-# DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 159164
+# DOMAIN-KEYWORD: 262
+# DOMAIN-SUFFIX: 159174
 # IP-CIDR: 467
 # IP-CIDR6: 1
-# TOTAL: 172743
+# TOTAL: 172752
 payload:
   - DOMAIN-KEYWORD,-logging.nextmedia.com
   - DOMAIN-KEYWORD,-s2s.sensic.net
@@ -77,7 +77,6 @@ payload:
   - DOMAIN-KEYWORD,a.wkanx.com
   - DOMAIN-KEYWORD,a3.bytecdn.cn
   - DOMAIN-KEYWORD,a3.pstatp.com
-  - DOMAIN-KEYWORD,ad-sign.byteimg.com
   - DOMAIN-KEYWORD,ad.api.moji.com
   - DOMAIN-KEYWORD,ad.ihuman.com
   - DOMAIN-KEYWORD,ad.toutiao.com
