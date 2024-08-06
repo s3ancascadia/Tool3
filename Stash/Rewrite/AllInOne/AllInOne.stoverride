@@ -1,13 +1,13 @@
 name: AllInOne
-desc: 最后更新时间 2024-08-02 02:14:52
+desc: 最后更新时间 2024-08-07 02:15:47
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 678
-# mitm: 713
+# reject: 679
+# mitm: 714
 # force-http-engine-hosts: 6
-# total: 1436
+# total: 1438
 
 
 
@@ -218,6 +218,7 @@ http:
     - ^https?:\/\/api\.huomao\.com\/channels\/loginAd - reject
     - ^https?:\/\/api\.internetofcity\.cn\/api\/resource\/anon\/popups\/getSplashList - reject
     - ^https?:\/\/api\.intsig\.net\/user\/cs\/operating\/app\/get_startpic\/ - reject
+    - ^https?:\/\/api\.ireader\.mobi\/activity\/ad\/openScreen - reject
     - ^https?:\/\/api\.ishansong\.com\/app\/check\/v\d+\/check - reject
     - ^https?:\/\/api\.izuiyou\.com\/ad\/ - reject
     - ^https?:\/\/api\.jr\.mi\.com\/jr\/api\/playScreen - reject
@@ -1031,6 +1032,7 @@ http:
     - "api.huomao.com"
     - "api.internetofcity.cn"
     - "api.intsig.net"
+    - "api.ireader.mobi"
     - "api.ishansong.com"
     - "api.izuiyou.com"
     - "api.jk.cn"
