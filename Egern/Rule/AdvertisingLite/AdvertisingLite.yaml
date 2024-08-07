@@ -1151,6 +1151,7 @@ domain_set:
 - ad.linkstorms.com
 - ad.linksynergy.com
 - ad.madvertise.de
+- ad.mcloud.139.com
 - ad.mox.tv
 - ad.netcommunities.com
 - ad.qn.img-space.com
@@ -2657,6 +2658,7 @@ domain_set:
 - api.jsecoin.com
 - api.jsfc8.cn
 - api.kwaizt.com
+- api.liquidlink.cn
 - api.miner.beeppool.org
 - api.mini.wps.cn
 - api.mlinks.co
@@ -2704,6 +2706,7 @@ domain_set:
 - appconsent.io
 - appendad.com
 - applog-perf.uc.cn
+- applog.zijieapi.com
 - appn.center
 - apportium.com
 - approp.pro
@@ -15616,7 +15619,6 @@ domain_set:
 - popuptraffic.com
 - popwin.net
 - popxxx.net
-- pork.2tumeng.com
 - porkolt.com
 - porn-hitz.com
 - porn-site-builder.com
@@ -18705,7 +18707,6 @@ domain_set:
 - ssmyceoxbjqdp.com
 - ssp-partner.alibaba.com
 - sspicy.ru
-- sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
 - sspsky.com
 - ssqpsrlknohdao.com
 - ssqzsdcnoqv.com
@@ -20534,7 +20535,6 @@ domain_set:
 - umc.danuoyi.alicdn.com
 - umebiggestern.club
 - umekana.ru
-- umengacs.m.taobao.com
 - umessage-online-zb.uc.cn
 - umgbvaurcx.com
 - umhpzzloestt.com
@@ -24652,7 +24652,6 @@ domain_suffix_set:
 - 99pps.com
 - 99tianxin.com
 - 99tuan.com.cn
-- 99youmeng.com
 - 9a6wb.cn
 - 9ads.net
 - 9d766be9a3.com
@@ -30822,7 +30821,6 @@ domain_suffix_set:
 - js883.njqunyi.com
 - js88895.net
 - js9318.bllzgqbyp.com
-- jsadsdisplay.cn-beijing.log.aliyuncs.com
 - jsadt.com
 - jsaik.com
 - jsb.qianzhan.com
@@ -31401,6 +31399,7 @@ domain_suffix_set:
 - locothet.com
 - log-yex.youdao.com
 - log.51cto.com
+- log.aliyuncs.com
 - log.b612kaji.com
 - log.collect.yinyuetai.com
 - log.hunantv.com
@@ -32854,7 +32853,6 @@ domain_suffix_set:
 - p1.18zhongyao.com
 - p1.qinsx.cn
 - p1.zhongyoo.com
-- p1.zhumengwl.com
 - p2.hunantv.com
 - p2.qinsx.cn
 - p2.ykauto.cn
@@ -35614,7 +35612,6 @@ domain_suffix_set:
 - ttcdn.cn
 - ttdetect.staticimgfarm.com
 - ttfgames.cn
-- ttjx-online.cn-hangzhou.log.aliyuncs.com
 - ttlm.cc
 - ttlowe.com
 - ttqr58.cn
@@ -35814,9 +35811,6 @@ domain_suffix_set:
 - um0592.com
 - um29.com
 - umbbs.cn
-- umeng.co
-- umeng.com
-- umengcloud.com
 - umid.orion.meizu.com
 - umjsik.com
 - umm6.cn
@@ -37683,7 +37677,6 @@ domain_keyword_set:
 - e2wysbacctt1
 - editor.sm.cn
 - ems.youku.com
-- errlog.umeng.com
 - exosrv
 - extlog.snssdk.com
 - fans.m.tmall.com
@@ -37779,7 +37772,7 @@ domain_keyword_set:
 - trackercdnbj.kugou.com
 - trwl1
 - tunion-api.m.taobao.com
-- uop.umeng.com
+- umeng
 - utp-dmp.ucweb.com
 - utp.ucweb.com
 - v0-client-lz.rili.cn

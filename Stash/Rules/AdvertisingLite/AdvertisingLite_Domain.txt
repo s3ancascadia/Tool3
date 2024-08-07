@@ -1,11 +1,11 @@
 # NAME: AdvertisingLite
-# UPDATED: 2024-08-06 02:08:17
+# UPDATED: 2024-08-08 02:08:16
 # DOMAIN: 23746
-# DOMAIN-KEYWORD: 188
-# DOMAIN-SUFFIX: 13860
+# DOMAIN-KEYWORD: 187
+# DOMAIN-SUFFIX: 13854
 # IP-CIDR: 184
 # IP-CIDR6: 1
-# TOTAL: 37979
+# TOTAL: 37972
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -1157,6 +1157,7 @@ ad.ikonke.com
 ad.linkstorms.com
 ad.linksynergy.com
 ad.madvertise.de
+ad.mcloud.139.com
 ad.mox.tv
 ad.netcommunities.com
 ad.qn.img-space.com
@@ -2663,6 +2664,7 @@ api.iqiyi.com
 api.jsecoin.com
 api.jsfc8.cn
 api.kwaizt.com
+api.liquidlink.cn
 api.miner.beeppool.org
 api.mini.wps.cn
 api.mlinks.co
@@ -2710,6 +2712,7 @@ appboycdn.com
 appconsent.io
 appendad.com
 applog-perf.uc.cn
+applog.zijieapi.com
 appn.center
 apportium.com
 approp.pro
@@ -15622,7 +15625,6 @@ popupmaker.com
 popuptraffic.com
 popwin.net
 popxxx.net
-pork.2tumeng.com
 porkolt.com
 porn-hitz.com
 porn-site-builder.com
@@ -18711,7 +18713,6 @@ sslcheckerapi.com
 ssmyceoxbjqdp.com
 ssp-partner.alibaba.com
 sspicy.ru
-sspmiaoshuo.cn-hangzhou.log.aliyuncs.com
 sspsky.com
 ssqpsrlknohdao.com
 ssqzsdcnoqv.com
@@ -20540,7 +20541,6 @@ umbel.com
 umc.danuoyi.alicdn.com
 umebiggestern.club
 umekana.ru
-umengacs.m.taobao.com
 umessage-online-zb.uc.cn
 umgbvaurcx.com
 umhpzzloestt.com
@@ -24657,7 +24657,6 @@ zzxosget.com
 .99pps.com
 .99tianxin.com
 .99tuan.com.cn
-.99youmeng.com
 .9a6wb.cn
 .9ads.net
 .9d766be9a3.com
@@ -30827,7 +30826,6 @@ zzxosget.com
 .js883.njqunyi.com
 .js88895.net
 .js9318.bllzgqbyp.com
-.jsadsdisplay.cn-beijing.log.aliyuncs.com
 .jsadt.com
 .jsaik.com
 .jsb.qianzhan.com
@@ -31406,6 +31404,7 @@ zzxosget.com
 .locothet.com
 .log-yex.youdao.com
 .log.51cto.com
+.log.aliyuncs.com
 .log.b612kaji.com
 .log.collect.yinyuetai.com
 .log.hunantv.com
@@ -32859,7 +32858,6 @@ zzxosget.com
 .p1.18zhongyao.com
 .p1.qinsx.cn
 .p1.zhongyoo.com
-.p1.zhumengwl.com
 .p2.hunantv.com
 .p2.qinsx.cn
 .p2.ykauto.cn
@@ -35619,7 +35617,6 @@ zzxosget.com
 .ttcdn.cn
 .ttdetect.staticimgfarm.com
 .ttfgames.cn
-.ttjx-online.cn-hangzhou.log.aliyuncs.com
 .ttlm.cc
 .ttlowe.com
 .ttqr58.cn
@@ -35819,9 +35816,6 @@ zzxosget.com
 .um0592.com
 .um29.com
 .umbbs.cn
-.umeng.co
-.umeng.com
-.umengcloud.com
 .umid.orion.meizu.com
 .umjsik.com
 .umm6.cn
