@@ -1,11 +1,11 @@
 # NAME: Advertising
-# UPDATED: 2024-08-08 02:08:52
+# UPDATED: 2024-08-09 02:09:41
 # DOMAIN: 16327
 # DOMAIN-KEYWORD: 259
-# DOMAIN-SUFFIX: 135415
+# DOMAIN-SUFFIX: 135445
 # IP-CIDR: 445
 # IP-CIDR6: 1
-# TOTAL: 152447
+# TOTAL: 152477
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.34
@@ -16598,6 +16598,7 @@ play.kakao.com
 +.103bees.com
 +.104231.dtiblog.com
 +.1048358656.rsc.cdn77.org
++.10523745.xyz
 +.105915624.com
 +.1059265748.rsc.cdn77.org
 +.105app.com
@@ -17181,6 +17182,7 @@ play.kakao.com
 +.2471april2024.com
 +.2473april2024.com
 +.2475april2024.com
++.2477april2024.com
 +.2479april2024.com
 +.247appbank.com
 +.247bank-ing.com
@@ -26511,6 +26513,7 @@ play.kakao.com
 +.ativan.ourtablets.com
 +.ativesathyas.info
 +.atjigglypuffor.com
++.atjtpbnwxmfavy.com
 +.atl-6-ga.com
 +.atlanticon.fr
 +.atlanticos.fr
@@ -27418,6 +27421,7 @@ play.kakao.com
 +.b3stcond1tions.com
 +.b3z29k1uxb.com
 +.b400393baba7cd476a3.com
++.b41732fb1b.com
 +.b42rracj.com
 +.b44794baad.com
 +.b477.life
@@ -31725,6 +31729,7 @@ play.kakao.com
 +.bytesdictatescoop.com
 +.bytesreunitedcedar.com
 +.byteyieldcreated.com
++.bytmfj.xyz
 +.bytogeticr.com
 +.bytupkvc.xyz
 +.byuwkbv.top
@@ -38869,6 +38874,7 @@ play.kakao.com
 +.data.adwombat.com
 +.data.hicloud.com
 +.data.kameleoon.io
++.data.media-lab.ai
 +.data.mimikama.at
 +.data.mistat.india.xiaomi.com
 +.data.mistat.intl.xiaomi.com
@@ -41637,6 +41643,7 @@ play.kakao.com
 +.dramaticagreementsalt.com
 +.dramaticcondition.com
 +.dramaticdirection.com
++.dramshaplite.com
 +.drankpool.com
 +.dranktonsil.com
 +.drapefabric.com
@@ -42426,7 +42433,6 @@ play.kakao.com
 +.e0e5bc8f81.com
 +.e0n.cn
 +.e1.wetterkameras.com
-+.e11956.x.akamaiedge.net
 +.e1577bbd-2a7e-4bee-b2fe-12a6406689e5.xyz
 +.e1cd662960.com
 +.e1ce13d5.xyz
@@ -44021,6 +44027,7 @@ play.kakao.com
 +.eoapxl.com
 +.eoasxirquewfyn.com
 +.eobvppi.com
++.eoedchucdtkep.com
 +.eofripvanwin.org
 +.eofst.com
 +.eoftheappyrinc.info
@@ -45967,6 +45974,7 @@ play.kakao.com
 +.fdtrjz.xyz
 +.fdubbogbean.guru
 +.fdxstats.xyz
++.fdyacma.icu
 +.fdytdc.xyz
 +.fe-go.letv.com
 +.fe-shop.cc
@@ -46505,6 +46513,7 @@ play.kakao.com
 +.fin.tips
 +.finacehoisomb.com
 +.finad.de
++.finafnhara.com
 +.final-aws-01.com
 +.final-azr-01.com
 +.finalice.net
@@ -48453,6 +48462,7 @@ play.kakao.com
 +.fzgrpqktmq.com
 +.fzhxi.com
 +.fzipipalkri.com
++.fzivunnigra.com
 +.fzjchj.com
 +.fzllis.cn
 +.fznpq.com
@@ -49357,6 +49367,7 @@ play.kakao.com
 +.getsmartlook.com
 +.getsmartyapp.com
 +.getsomespecials.com
++.getsozoaque.xyz
 +.getspecialgifts.com
 +.getstart3d12.monster
 +.getstat.net
@@ -52822,6 +52833,7 @@ play.kakao.com
 +.highperformancedisplayformat.com
 +.highperformancegate.com
 +.highprofitnetwork.com
++.highratecpm.com
 +.highrevenuecpm.com
 +.highrevenuecpmnetrok.com
 +.highrevenuecpmnetwork.com
@@ -53869,6 +53881,7 @@ play.kakao.com
 +.httpsecurity.org
 +.htubzpb.cn
 +.htucmyqwij.com
++.htudbybel.com
 +.htufhvsglyoy.com
 +.hturnshal.com
 +.htvixv.xyz
@@ -55444,6 +55457,7 @@ play.kakao.com
 +.inconceivableascertained.com
 +.inconclusiveaction.com
 +.inconsequential-skin.pro
++.inconsequential-working.com
 +.inconsistencygasdifficult.com
 +.inconveniencemimic.com
 +.inconveniencepretendboost.com
@@ -57221,6 +57235,7 @@ play.kakao.com
 +.javbucks.com
 +.javbuzz.com
 +.javdawn.fun
++.javgenetic11.fun
 +.javgg.eu
 +.javgulf.fun
 +.javguru.gggsss.site
@@ -57646,6 +57661,7 @@ play.kakao.com
 +.jin0cbonpi.ru
 +.jincanfohn.website
 +.jincodiks.com
++.jindepux.xyz
 +.jingalbundles.com
 +.jingbaiteether.top
 +.jingenfirm.com
@@ -60060,6 +60076,7 @@ play.kakao.com
 +.ktnwxhjv.xyz
 +.ktobedirectu.xyz
 +.ktoioo.xyz
++.ktpcsqnij.com
 +.ktqiyjojiya.com
 +.ktrackdata.com
 +.ktrfzka.com
@@ -64321,6 +64338,7 @@ play.kakao.com
 +.massacreintentionalmemorize.com
 +.massacresurrogate.com
 +.massage-v-almaty.kz
++.massagefumaria.click
 +.massariuscdn.com
 +.massbrag.care
 +.massecephid.uno
@@ -69615,6 +69633,7 @@ play.kakao.com
 +.noiselessplough.com
 +.noiselessvegetables.com
 +.noiseslaveoutfit.com
++.noisesperusemotel.com
 +.noisesuperserver.com
 +.noisyassistance.pro
 +.noisybeforemorton.com
@@ -72721,6 +72740,7 @@ play.kakao.com
 +.oweven.com
 +.owewary.com
 +.owfrbdikoorgn.xyz
++.owhlmuxze.com
 +.owhoalagly.com
 +.owhoogryinfo.com
 +.owihyg.xyz
@@ -77422,6 +77442,7 @@ play.kakao.com
 +.ptouckop.xyz
 +.ptoujaix.xyz
 +.ptoumsid.net
++.ptoupisso.net
 +.ptoushoa.com
 +.ptousteg.net
 +.ptoutsexe.com
@@ -95412,6 +95433,7 @@ play.kakao.com
 +.ukbcjxvaejpfdxx.com
 +.ukdliketobepa.monster
 +.ukdtzkc.com
++.ukecqypnt.com
 +.ukekchti.com
 +.ukennailsandoth.xyz
 +.ukentaspe.xyz
@@ -95420,6 +95442,7 @@ play.kakao.com
 +.ukfareputfea.xyz
 +.ukgfniu.cn
 +.ukidiayddbshfl.com
++.ukindwouldmeu.com
 +.ukiyoyechromy.com
 +.ukizeiasninan.info
 +.ukjwyv.icu
@@ -99105,6 +99128,7 @@ play.kakao.com
 +.vpie.net
 +.vpipi.com
 +.vpixrlkggv.com
++.vpkdrxyx.com
 +.vpkq.cn
 +.vplayer.newseveryday.com
 +.vplgggd.com
@@ -100941,6 +100965,7 @@ play.kakao.com
 +.wigsynthesis.com
 +.wiinvent.com.vn
 +.wiinvent.tv
++.wiixqm.xyz
 +.wikbdhq.com
 +.wikeqa.uno
 +.wikia-ads.wikia.com
@@ -102766,6 +102791,7 @@ play.kakao.com
 +.xbmczkujzsfkcq.com
 +.xbox-ms-store-debug.com
 +.xbtjupfy.xyz
++.xbuycgcae.com
 +.xbvmrx.xyz
 +.xbwiykqxeiqb.com
 +.xbxmdlosph.xyz
@@ -102900,6 +102926,7 @@ play.kakao.com
 +.xfn1688.com
 +.xforhehvu.com
 +.xfqrsjq.cn
++.xfqynrp.cn
 +.xfrahb.xyz
 +.xfreeservice.com
 +.xftrtljc.xyz
@@ -104255,6 +104282,7 @@ play.kakao.com
 +.ymmiyun.com
 +.ymniqh.icu
 +.ymonetize.com
++.ymtmwjgsjsv.com
 +.ymtrack6.co
 +.ymuitydkdoy.com
 +.ymwdeaiut.com
@@ -105256,6 +105284,7 @@ play.kakao.com
 +.zhuxiao11.cn
 +.zhyivocrjeplby.com
 +.zhzclbysg.com
++.zi3nna.xyz
 +.zi8ivy4b0c7l.com
 +.ziaratjs.tech
 +.zibaweva.com
@@ -105482,6 +105511,7 @@ play.kakao.com
 +.zoltrl.xyz
 +.zombiharshen.top
 +.zombisarake.top
++.zombyfairfax.com
 +.zomcz.cyou
 +.zona.pl
 +.zona.plus
