@@ -1,11 +1,11 @@
 # NAME: Advertising
-# UPDATED: 2024-08-10 02:09:15
+# UPDATED: 2024-08-11 02:08:10
 # DOMAIN: 16327
 # DOMAIN-KEYWORD: 259
-# DOMAIN-SUFFIX: 135493
+# DOMAIN-SUFFIX: 135505
 # IP-CIDR: 445
 # IP-CIDR6: 1
-# TOTAL: 152525
+# TOTAL: 152537
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.34
@@ -25075,6 +25075,7 @@ play.kakao.com
 +.annons.svenskjakt.se
 +.annons.turist.se
 +.annonser.dagbladet.no
++.annonsserver.se
 +.annotationdiverse.com
 +.annotationmadness.com
 +.annotationpushy.com
@@ -25496,6 +25497,7 @@ play.kakao.com
 +.app.haraloyalty.com
 +.app.harasocial.com
 +.app.hstatic.net
++.app.kuvio.io
 +.app.monetizze.com.br
 +.app.monetrack.com
 +.app.mybigc.net
@@ -26481,6 +26483,7 @@ play.kakao.com
 +.aterhouseoyop.info
 +.aterroppop.com
 +.atesbrotheres.com
++.atethebenefitsshe.com
 +.atevaccination.com
 +.atf-tagmanager.de
 +.atfhtqjeflq.com
@@ -30470,6 +30473,7 @@ play.kakao.com
 +.boplgt.icu
 +.bopstermedia56.com
 +.boptegre.com
++.boqmjxtkwn.com
 +.boqsxdpx.xyz
 +.borary.com
 +.bordeaux.futurecdn.net
@@ -34612,6 +34616,7 @@ play.kakao.com
 +.clksite.com
 +.clkslvmiwadfsx.xyz
 +.clktrk.com
++.clkwnl.xyz
 +.cllctr.any.run
 +.clmawdd9chhcaii.ru
 +.clmbtech.com
@@ -36872,6 +36877,7 @@ play.kakao.com
 +.crusilyparonym.com
 +.cruthdivisi.life
 +.crutop.nu
++.crutvncf.top
 +.crux.songline.com
 +.crvbnac.xyz
 +.crvxhuxcel.com
@@ -38360,6 +38366,7 @@ play.kakao.com
 +.d3nq5jrakcyw1w.cloudfront.net
 +.d3numuoibysgi8.cloudfront.net
 +.d3nvrqlo8rj1kw.cloudfront.net
++.d3nz96k4xfpkvu.cloudfront.net
 +.d3o9njeb29ydop.cloudfront.net
 +.d3oep4gb91kpuv.cloudfront.net
 +.d3ohee25hhsn8j.cloudfront.net
@@ -44834,6 +44841,7 @@ play.kakao.com
 +.evscnfj.cn
 +.evsembu.com
 +.evslvususdpf.com
++.evt.ilovepdf.com
 +.evt.mxplay.com
 +.evtkugaoxhwegi.com
 +.evtubescms.phncdn.com
@@ -46589,7 +46597,6 @@ play.kakao.com
 +.finednothue.com
 +.fineest-accession.life
 +.finema.net
-+.fineoffer.net
 +.fineporno.com
 +.finesseboisterous.com
 +.finessesherry.com
@@ -55988,7 +55995,6 @@ play.kakao.com
 +.instantlyharmony.com
 +.instantlyshrillblink.com
 +.instantlyurged.com
-+.instantmadness.com
 +.instantnewzz.com
 +.instantrefused.com
 +.instantshingle.com
@@ -81944,6 +81950,7 @@ play.kakao.com
 +.rp9p0.xyz
 +.rpawarcnm.com
 +.rpe.co.il
++.rpeutxu.icu
 +.rpfytkt.com
 +.rpgmasterleague.com
 +.rpjbtni186w9.shop
@@ -84585,6 +84592,7 @@ play.kakao.com
 +.shbfinanoe.com
 +.shbfinans.com
 +.shbkhuyenmai.com
++.shbxugs.cn
 +.shbzdkj.cn
 +.shbzegs.cn
 +.shbzkkj.cn
@@ -85529,6 +85537,7 @@ play.kakao.com
 +.signalspotsharshly.com
 +.signalsuedejolly.com
 +.signaly.co
++.signamentswithded.com
 +.signatu.com
 +.signatureoutskirts.com
 +.significantnuisance.com
@@ -96626,6 +96635,7 @@ play.kakao.com
 +.utensils.pro
 +.utenti.lycos.it
 +.uterinecordis.top
++.utewyc.xyz
 +.uthecrimorew.com
 +.uthecrimorew.info
 +.uthegrathapron.com
@@ -98383,6 +98393,7 @@ play.kakao.com
 +.vinosedermol.com
 +.vinpearl1.vingroupsny.com
 +.vins-bourgorne.fr
++.vinsgcs.com
 +.vinsight.de
 +.vintageperk.com
 +.vintagerespectful.com
@@ -105423,6 +105434,7 @@ play.kakao.com
 +.zjliloveyou.ixiunv.com
 +.zjmmkjayjjazy.top
 +.zjo0tjqpm1.com
++.zjplnz.xyz
 +.zjpwrpo.com
 +.zjqs.shop
 +.zjrnyrranjjay.top

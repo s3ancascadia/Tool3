@@ -1,11 +1,11 @@
 # NAME: Advertising
-# UPDATED: 2024-08-10 02:09:15
+# UPDATED: 2024-08-11 02:08:10
 # DOMAIN: 16327
 # DOMAIN-KEYWORD: 259
-# DOMAIN-SUFFIX: 135493
+# DOMAIN-SUFFIX: 135505
 # IP-CIDR: 445
 # IP-CIDR6: 1
-# TOTAL: 152525
+# TOTAL: 152537
 payload:
   - '03.lzzncm.com'
   - '04.lzzncm.com'
@@ -25076,6 +25076,7 @@ payload:
   - '+.annons.svenskjakt.se'
   - '+.annons.turist.se'
   - '+.annonser.dagbladet.no'
+  - '+.annonsserver.se'
   - '+.annotationdiverse.com'
   - '+.annotationmadness.com'
   - '+.annotationpushy.com'
@@ -25497,6 +25498,7 @@ payload:
   - '+.app.haraloyalty.com'
   - '+.app.harasocial.com'
   - '+.app.hstatic.net'
+  - '+.app.kuvio.io'
   - '+.app.monetizze.com.br'
   - '+.app.monetrack.com'
   - '+.app.mybigc.net'
@@ -26482,6 +26484,7 @@ payload:
   - '+.aterhouseoyop.info'
   - '+.aterroppop.com'
   - '+.atesbrotheres.com'
+  - '+.atethebenefitsshe.com'
   - '+.atevaccination.com'
   - '+.atf-tagmanager.de'
   - '+.atfhtqjeflq.com'
@@ -30471,6 +30474,7 @@ payload:
   - '+.boplgt.icu'
   - '+.bopstermedia56.com'
   - '+.boptegre.com'
+  - '+.boqmjxtkwn.com'
   - '+.boqsxdpx.xyz'
   - '+.borary.com'
   - '+.bordeaux.futurecdn.net'
@@ -34613,6 +34617,7 @@ payload:
   - '+.clksite.com'
   - '+.clkslvmiwadfsx.xyz'
   - '+.clktrk.com'
+  - '+.clkwnl.xyz'
   - '+.cllctr.any.run'
   - '+.clmawdd9chhcaii.ru'
   - '+.clmbtech.com'
@@ -36873,6 +36878,7 @@ payload:
   - '+.crusilyparonym.com'
   - '+.cruthdivisi.life'
   - '+.crutop.nu'
+  - '+.crutvncf.top'
   - '+.crux.songline.com'
   - '+.crvbnac.xyz'
   - '+.crvxhuxcel.com'
@@ -38361,6 +38367,7 @@ payload:
   - '+.d3nq5jrakcyw1w.cloudfront.net'
   - '+.d3numuoibysgi8.cloudfront.net'
   - '+.d3nvrqlo8rj1kw.cloudfront.net'
+  - '+.d3nz96k4xfpkvu.cloudfront.net'
   - '+.d3o9njeb29ydop.cloudfront.net'
   - '+.d3oep4gb91kpuv.cloudfront.net'
   - '+.d3ohee25hhsn8j.cloudfront.net'
@@ -44835,6 +44842,7 @@ payload:
   - '+.evscnfj.cn'
   - '+.evsembu.com'
   - '+.evslvususdpf.com'
+  - '+.evt.ilovepdf.com'
   - '+.evt.mxplay.com'
   - '+.evtkugaoxhwegi.com'
   - '+.evtubescms.phncdn.com'
@@ -46590,7 +46598,6 @@ payload:
   - '+.finednothue.com'
   - '+.fineest-accession.life'
   - '+.finema.net'
-  - '+.fineoffer.net'
   - '+.fineporno.com'
   - '+.finesseboisterous.com'
   - '+.finessesherry.com'
@@ -55989,7 +55996,6 @@ payload:
   - '+.instantlyharmony.com'
   - '+.instantlyshrillblink.com'
   - '+.instantlyurged.com'
-  - '+.instantmadness.com'
   - '+.instantnewzz.com'
   - '+.instantrefused.com'
   - '+.instantshingle.com'
@@ -81945,6 +81951,7 @@ payload:
   - '+.rp9p0.xyz'
   - '+.rpawarcnm.com'
   - '+.rpe.co.il'
+  - '+.rpeutxu.icu'
   - '+.rpfytkt.com'
   - '+.rpgmasterleague.com'
   - '+.rpjbtni186w9.shop'
@@ -84586,6 +84593,7 @@ payload:
   - '+.shbfinanoe.com'
   - '+.shbfinans.com'
   - '+.shbkhuyenmai.com'
+  - '+.shbxugs.cn'
   - '+.shbzdkj.cn'
   - '+.shbzegs.cn'
   - '+.shbzkkj.cn'
@@ -85530,6 +85538,7 @@ payload:
   - '+.signalspotsharshly.com'
   - '+.signalsuedejolly.com'
   - '+.signaly.co'
+  - '+.signamentswithded.com'
   - '+.signatu.com'
   - '+.signatureoutskirts.com'
   - '+.significantnuisance.com'
@@ -96627,6 +96636,7 @@ payload:
   - '+.utensils.pro'
   - '+.utenti.lycos.it'
   - '+.uterinecordis.top'
+  - '+.utewyc.xyz'
   - '+.uthecrimorew.com'
   - '+.uthecrimorew.info'
   - '+.uthegrathapron.com'
@@ -98384,6 +98394,7 @@ payload:
   - '+.vinosedermol.com'
   - '+.vinpearl1.vingroupsny.com'
   - '+.vins-bourgorne.fr'
+  - '+.vinsgcs.com'
   - '+.vinsight.de'
   - '+.vintageperk.com'
   - '+.vintagerespectful.com'
@@ -105424,6 +105435,7 @@ payload:
   - '+.zjliloveyou.ixiunv.com'
   - '+.zjmmkjayjjazy.top'
   - '+.zjo0tjqpm1.com'
+  - '+.zjplnz.xyz'
   - '+.zjpwrpo.com'
   - '+.zjqs.shop'
   - '+.zjrnyrranjjay.top'
