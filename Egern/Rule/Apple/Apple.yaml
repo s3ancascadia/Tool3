@@ -1,7 +1,6 @@
 no_resolve: true
 domain_set:
 - apps.apple.com
-- itunes.apple.com
 - a1.mzstatic.com
 - a2.mzstatic.com
 - a3.mzstatic.com
@@ -242,6 +241,7 @@ domain_set:
 - gspe1-ssl.ls.apple.com
 - hls-svod.itunes.apple.com
 - hls.itunes.apple.com
+- itunes.apple.com
 - js-cdn.music.apple.com
 - lookup-api.apple.com
 - mask-api.fe.apple-dns.net
@@ -1453,7 +1453,6 @@ domain_suffix_set:
 - applepaysupplies.tv
 - applewallet.com
 - applewallet.tv
-- appsto.re
 - appstore.co.id
 - appstore.com
 - appstore.hk
@@ -1775,11 +1774,9 @@ domain_suffix_set:
 - wwwipodlounge.com
 - wwwmacbookair.com
 - apple.comscoreresearch.com
-- apple.news
 - appleenews.com
 - applemusic.berlin
 - applemusic.co
-- applemusic.com
 - applemusic.com.au
 - applemusic.hamburg
 - applemusic.wang
@@ -1812,7 +1809,10 @@ domain_suffix_set:
 - iphoto.wang
 - musickit.net
 - wwwapplemusic.com
+- applemusic.com
 - apple-dns.net
+- apple.news
+- appsto.re
 - cdn-apple.com
 - digicert.com
 - apple-cloudkit.com

@@ -15,18 +15,18 @@
 
 ## 规则统计
 
-最后更新时间：2024-08-11 02:08:05
+最后更新时间：2024-08-12 02:09:58
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 16327  | 
 | DOMAIN-KEYWORD | 259  | 
-| DOMAIN-SUFFIX | 135505  | 
+| DOMAIN-SUFFIX | 135577  | 
 | DOMAIN-WILDCARD | 1  | 
 | IP-CIDR | 445  | 
 | IP-CIDR6 | 1  | 
-| TOTAL(仅供参考) | 152538  | 
+| TOTAL(仅供参考) | 152610  | 
 
 
 ## Egern 
