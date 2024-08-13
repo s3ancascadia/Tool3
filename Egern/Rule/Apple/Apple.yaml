@@ -1,6 +1,7 @@
 no_resolve: true
 domain_set:
 - apps.apple.com
+- itunes.apple.com
 - a1.mzstatic.com
 - a2.mzstatic.com
 - a3.mzstatic.com
@@ -240,8 +241,6 @@ domain_set:
 - docs-assets.developer.apple.com
 - gspe1-ssl.ls.apple.com
 - hls-svod.itunes.apple.com
-- hls.itunes.apple.com
-- itunes.apple.com
 - js-cdn.music.apple.com
 - lookup-api.apple.com
 - mask-api.fe.apple-dns.net
@@ -254,19 +253,20 @@ domain_set:
 - news-client.apple.com
 - news-edge.apple.com
 - news-events.apple.com
+- sandbox.itunes.apple.com
+- hls-amt.itunes.apple.com
+- hls.itunes.apple.com
 - np-edge.itunes.apple.com
 - play-edge.itunes.apple.com
-- sandbox.itunes.apple.com
-- testflight.apple.com
 - tv.applemusic.com
 - uts-api.itunes.apple.com
-- hls-amt.itunes.apple.com
 - fmfmobile.icloud.com
 - fmipmobile.icloud.com
 - statici.icloud.com
 - amp-api.fitness.apple.com
 - guzzoni.apple.com
 - beta.apple.com
+- testflight.apple.com
 - www-cdn.icloud.com.akadns.net
 domain_suffix_set:
 - 100beatscheap.com
@@ -1453,6 +1453,7 @@ domain_suffix_set:
 - applepaysupplies.tv
 - applewallet.com
 - applewallet.tv
+- appsto.re
 - appstore.co.id
 - appstore.com
 - appstore.hk
@@ -1774,6 +1775,7 @@ domain_suffix_set:
 - wwwipodlounge.com
 - wwwmacbookair.com
 - apple.comscoreresearch.com
+- apple.news
 - appleenews.com
 - applemusic.berlin
 - applemusic.co
@@ -1811,8 +1813,6 @@ domain_suffix_set:
 - musickit.net
 - wwwapplemusic.com
 - apple-dns.net
-- apple.news
-- appsto.re
 - cdn-apple.com
 - digicert.com
 - apple-cloudkit.com
@@ -1832,9 +1832,16 @@ domain_regex_set:
 - apple.com.*
 - appleworldwidedeveloper.*.net
 - imac.*
+- init*.push-apple.com.akadns.net
+- init*.push.apple.com
+- ipad.*
+- ipadair.*
+- ipadmini.*
 - iphone.*
 - ipod.*
 - macbook.*
+- macbookair.*
+- macbookpro.*
 ip_cidr_set:
 - 139.178.128.0/18
 - 144.178.0.0/19

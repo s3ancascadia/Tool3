@@ -12,7 +12,7 @@ Apple规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-07-07 02:09:00
+最后更新时间：2024-08-14 02:10:36
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -20,10 +20,10 @@ Apple规则由《RULE GENERATOR 规则生成器》自动生成。
 | DOMAIN | 268  | 
 | DOMAIN-KEYWORD | 7  | 
 | DOMAIN-SUFFIX | 1549  | 
-| DOMAIN-WILDCARD | 8  | 
+| DOMAIN-WILDCARD | 15  | 
 | IP-CIDR | 10  | 
 | USER-AGENT(Egern不支持) | 23  | 
-| TOTAL(仅供参考) | 1865  | 
+| TOTAL(仅供参考) | 1872  | 
 
 
 ## Egern 

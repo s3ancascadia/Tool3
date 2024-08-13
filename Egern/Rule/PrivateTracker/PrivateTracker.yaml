@@ -5,13 +5,13 @@ domain_set:
 - aegir.sexy
 - amigacity.xyz
 - bandito.byterunner.io
-- bittorrent-tracker.e-n-c-r-y-p-t.net
 - bittorrent.service.gongt.me
+- bt.ktrackers.com
 - bt.okmp3.ru
+- bt.rer.lol
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
-- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -34,7 +34,6 @@ domain_set:
 - open.demonii.com
 - open.demonoid.ch
 - open.dstud.io
-- open.free-tracker.ga
 - open.publictracker.xyz
 - open.stealth.si
 - open.tracker.cl
@@ -44,6 +43,7 @@ domain_set:
 - opentracker.io
 - p2p.publictracker.xyz
 - p4p.arenabg.com
+- public.tracker.vraphim.com
 - pybittrack.retiolus.net
 - retracker.hotplug.ru
 - retracker.x2k.ru
@@ -58,6 +58,7 @@ domain_set:
 - tk.greedland.net
 - tk2.trackerservers.com
 - tk2v6.trackerservers.com
+- torrent.tracker.durukanbal.com
 - torrents.artixlinux.org
 - torrentsmd.com
 - tr.abir.ga
@@ -66,7 +67,6 @@ domain_set:
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
 - tracker.0x7c0.com
-- tracker.auctor.tv
 - tracker.birkenwald.de
 - tracker.bittor.pw
 - tracker.breizh.pm
