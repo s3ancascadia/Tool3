@@ -1,5 +1,5 @@
 name: AllInOne
-desc: 最后更新时间 2024-08-15 02:15:11
+desc: 最后更新时间 2024-08-16 02:16:18
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
@@ -941,6 +941,7 @@ http:
     - "*.xbwpys.com"
     - "*.yuanfudao.com"
     - "*.yuxueyuan.cn"
+    - "*.zdmimg.com"
     - "*api.oray.net"
     - "*cupid.iqiyi.com"
     - "101.201.175.228"
@@ -1437,7 +1438,6 @@ http:
     - "richmanapi.jxedt.com"
     - "router-app-api.jdcloud.com"
     - "rtbapi.douyucdn.cn"
-    - "s*.zdmimg.com"
     - "s.jiediankeji.com"
     - "s1.api.tv.itc.cn"
     - "s3plus.meituan.net"

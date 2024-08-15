@@ -1,5 +1,5 @@
 name: 复写去广告
-desc: 最后更新时间 2024-08-15 02:15:07
+desc: 最后更新时间 2024-08-16 02:16:14
 # reject: 713
 # mitm: 669
 # force-http-engine-hosts: 6
@@ -772,6 +772,7 @@ http:
     - "*.xmcdn.*"
     - "*.yuanfudao.com"
     - "*.yuxueyuan.cn"
+    - "*.zdmimg.com"
     - "*api.oray.net"
     - "*cupid.iqiyi.com"
     - "*gaoqingdianshi.com"
@@ -1275,7 +1276,6 @@ http:
     - "richmanapi.jxedt.com"
     - "router-app-api.jdcloud.com"
     - "rtbapi.douyucdn.cn"
-    - "s*.zdmimg.com"
     - "s.jiediankeji.com"
     - "s1.api.tv.itc.cn"
     - "s3plus.meituan.net"

@@ -1,11 +1,11 @@
 # NAME: Proxy
-# UPDATED: 2024-08-06 02:11:33
+# UPDATED: 2024-08-16 02:12:36
 # DOMAIN: 12
 # DOMAIN-KEYWORD: 28
-# DOMAIN-SUFFIX: 5914
+# DOMAIN-SUFFIX: 5916
 # IP-CIDR: 96
 # IP-CIDR6: 4
-# TOTAL: 6054
+# TOTAL: 6056
 payload:
   - 'api.waqi.info'
   - 'aqi.aqicn.org'
@@ -4589,6 +4589,7 @@ payload:
   - '+.stoptibetcrisis.net'
   - '+.storagenewsletter.com'
   - '+.storify.com'
+  - '+.storj.io'
   - '+.storm.mg'
   - '+.stormmediagroup.com'
   - '+.stoweboyd.com'
@@ -5268,6 +5269,7 @@ payload:
   - '+.usacn.com'
   - '+.usaip.eu'
   - '+.usc.edu'
+  - '+.uscardforum.com'
   - '+.uscnpm.org'
   - '+.usembassy.gov'
   - '+.userapi.nytlog.com'
