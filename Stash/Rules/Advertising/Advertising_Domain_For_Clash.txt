@@ -1,11 +1,11 @@
 # NAME: Advertising
-# UPDATED: 2024-08-16 02:09:42
-# DOMAIN: 16326
+# UPDATED: 2024-08-17 02:09:06
+# DOMAIN: 16328
 # DOMAIN-KEYWORD: 259
-# DOMAIN-SUFFIX: 136092
+# DOMAIN-SUFFIX: 136097
 # IP-CIDR: 445
 # IP-CIDR6: 1
-# TOTAL: 153123
+# TOTAL: 153130
 03.lzzncm.com
 04.lzzncm.com
 10.10.34.34
@@ -5553,6 +5553,7 @@ clicktrkservices.com
 clickx.autohome.com.cn
 clickz.lonelycheatingwives.com
 clickzxc.com
+client.tahono.com
 clifftopper.com
 cljmarinq.com
 clkcln.com
@@ -5807,6 +5808,7 @@ cstfzgckbtrb.com
 cstmedia.com.cn
 cswilliamsburg.com
 csyjaajr.com
+ct.eid.co.nz
 ctcautobody.com
 ctdhylltfighs.com
 ctenetwork.com
@@ -17433,6 +17435,7 @@ play.kakao.com
 +.2vaxwkujrfwh.info
 +.2vulkan.com
 +.2vv.cc
++.2x1gratis.com
 +.2xclick.ru
 +.2xmzazd.cn
 +.2yt.cn
@@ -25470,6 +25473,7 @@ play.kakao.com
 +.api.ozui.vn
 +.api.pubfinity.com
 +.api.receptivity.io
++.api.rudderstack.com
 +.api.setting.intl.miui.com
 +.api.simpletra.com
 +.api.sprig.com
@@ -30703,6 +30707,7 @@ play.kakao.com
 +.bowlpromoteintimacy.com
 +.bowlsolicitor.com
 +.bowmoolog.com
++.bowoprf.icu
 +.bowtellwhincow.cfd
 +.box-en.com
 +.box.rus.porn
@@ -34658,7 +34663,6 @@ play.kakao.com
 +.client-telemetry.roblox.com
 +.client.botchk.net
 +.client.midosoo.com
-+.client.tahono.com
 +.clientgear.com
 +.clientinfo.phimmoizz.net
 +.clientlog.midomi.com
@@ -37127,7 +37131,6 @@ play.kakao.com
 +.csyymp4.com
 +.cszz.ru
 +.ct.5.p2l.info
-+.ct.eid.co.nz
 +.ct.itbusinessedge.com
 +.ct.thegear-box.com
 +.ct2.kimodameshi.com
@@ -37661,7 +37664,6 @@ play.kakao.com
 +.d15fkr9rkey1dd.cloudfront.net
 +.d15gt9gwxw5wu0.cloudfront.net
 +.d15jg7068qz6nm.cloudfront.net
-+.d15kdaxu5c0hfw.cloudfront.net
 +.d15kdpgjg3unno.cloudfront.net
 +.d15kuuu3jqrln7.cloudfront.net
 +.d15mt77nzagpnx.cloudfront.net
@@ -38282,7 +38284,6 @@ play.kakao.com
 +.d2zf5gu5e5mp87.cloudfront.net
 +.d2zh7okxrw0ix.cloudfront.net
 +.d2zi8ra5rb7m89.cloudfront.net
-+.d2zue0pgsssbc6.cloudfront.net
 +.d2zv5rkii46miq.cloudfront.net
 +.d2zzazjvlpgmgi.cloudfront.net
 +.d3-umami.up.railway.app
@@ -38340,7 +38341,6 @@ play.kakao.com
 +.d36gnquzy6rtyp.cloudfront.net
 +.d36s9tmu0jh8rd.cloudfront.net
 +.d36sxvmjoflc2i.cloudfront.net
-+.d36u3psykfwy91.cloudfront.net
 +.d36un5ytqxjgkq.cloudfront.net
 +.d36utvtykl56bp.cloudfront.net
 +.d36zfztxfflmqo.cloudfront.net
@@ -38384,7 +38384,6 @@ play.kakao.com
 +.d3beefy8kd1pr7.cloudfront.net
 +.d3befd5a11.com
 +.d3bfricg2zhkdf.cloudfront.net
-+.d3bj8nkfly20uo.cloudfront.net
 +.d3bo67muzbfgtl.cloudfront.net
 +.d3c.life
 +.d3c.site
@@ -38504,7 +38503,6 @@ play.kakao.com
 +.d3pe8wzpurrzss.cloudfront.net
 +.d3pel2vlstnlu9.cloudfront.net
 +.d3phzb7fk3uhin.cloudfront.net
-+.d3pi0tys5sdysl.cloudfront.net
 +.d3pkntwtp2ukl5.cloudfront.net
 +.d3plfjw9uod7ab.cloudfront.net
 +.d3pnod4lg28ix4.cloudfront.net
@@ -38519,7 +38517,6 @@ play.kakao.com
 +.d3qvcyf9oa6vhw.cloudfront.net
 +.d3qxd84135kurx.cloudfront.net
 +.d3qygewatvuv28.cloudfront.net
-+.d3qztsm17pgxue.cloudfront.net
 +.d3r7h55ola878c.cloudfront.net
 +.d3rb9wasp2y8gw.cloudfront.net
 +.d3rhktq8uy839j.cloudfront.net
@@ -41935,7 +41932,6 @@ play.kakao.com
 +.drkglnrwqomg.com
 +.drkness.net
 +.drlhprjldsgjxa.com
-+.drlimmode9ddd.cloudfront.net
 +.drlxpmqemsh.com
 +.drm-google-analtyic.com
 +.drm-server-booking.com
@@ -44491,6 +44487,7 @@ play.kakao.com
 +.erucbaillie.top
 +.erumen.com
 +.eruthoxup.com
++.erutvncw.top
 +.erutxdk.cn
 +.ervqqtdjdxvgh.com
 +.erxdq.com
@@ -47189,6 +47186,7 @@ play.kakao.com
 +.floratelecom.com
 +.floridat.app.ur.gcion.com
 +.floristgathering.com
++.floroonwhun.com
 +.flossdiversebates.com
 +.flossyarrayal.life
 +.flotsanrantan.com
@@ -51553,7 +51551,6 @@ play.kakao.com
 +.gulperstaunted.website
 +.gulsachpyrexia.uno
 +.gulsyangtao.guru
-+.gum.dlbooks.to
 +.gumbolersgthb.com
 +.gumcongest.com
 +.gumgo.cn
@@ -51965,6 +51962,7 @@ play.kakao.com
 +.hall3hook.com
 +.hallaert.online
 +.hallalifondish.space
++.hallanjerbil.com
 +.halldata.com
 +.halleyperson.pro
 +.hallothoulap.top
@@ -58453,6 +58451,7 @@ play.kakao.com
 +.jrilbcd.com
 +.jrilkvjehrjlri.com
 +.jriravntivf.com
++.jrjtibez.icu
 +.jrkbnvkrvamky.top
 +.jrkkcssob.com
 +.jrkkmpeqtlsawgf.com
@@ -72827,6 +72826,7 @@ play.kakao.com
 +.oulsools.com
 +.oulukdliketo.shop
 +.oumainseeba.xyz
++.oumnxiek.top
 +.oumpashy.net
 +.oumtirsu.com
 +.ounceanalogous.com
@@ -73644,6 +73644,7 @@ play.kakao.com
 +.pannumregnal.com
 +.panoramicbutter.com
 +.panoramicplane.com
++.panowiesnarled.click
 +.panoz.xyz
 +.panpant.xyz
 +.pansymerbaby.com
@@ -81695,6 +81696,7 @@ play.kakao.com
 +.ridwmorfitu.com
 +.rieversfidate.com
 +.rifec.co
++.riffingwiener.com
 +.riffledyanked.click
 +.rifflingo.com
 +.riffsablaze.uno
@@ -85050,6 +85052,7 @@ play.kakao.com
 +.shbxukj.cn
 +.shbzdkj.cn
 +.shbzegs.cn
++.shbzhkj.cn
 +.shbzikj.cn
 +.shbzjgs.cn
 +.shbzjkj.cn
@@ -86362,6 +86365,7 @@ play.kakao.com
 +.skiingwights.com
 +.skilfuljealousygeoffrey.com
 +.skilfulrussian.com
++.skilldicier.com
 +.skilledfixedoffers.com
 +.skilledskillemergency.com
 +.skilledtables.com
@@ -101974,6 +101978,7 @@ play.kakao.com
 +.wnrrhcyok.xyz
 +.wnrusisedprivatedq.info
 +.wnrvrwabnxa.com
++.wnstug.xyz
 +.wnt-s0me-push.net
 +.wnt-some-psh.net
 +.wnt-some-push.com
@@ -102308,6 +102313,7 @@ play.kakao.com
 +.wpush.org
 +.wpushorg.com
 +.wpushsdk.com
++.wpwserawnuwq.com
 +.wqasioxvqnj.com
 +.wqcfg.cn
 +.wqdro6us.icu
@@ -105589,6 +105595,7 @@ play.kakao.com
 +.zbwp6ghm.com
 +.zbx01.com
 +.zbxtcwi.xyz
++.zbysshlpgvl.com
 +.zbyynuew9g.ru
 +.zbzbzb.xyz
 +.zca31.com

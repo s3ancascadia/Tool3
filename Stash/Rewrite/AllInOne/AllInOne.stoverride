@@ -1,13 +1,13 @@
 name: AllInOne
-desc: 最后更新时间 2024-08-16 02:16:18
+desc: 最后更新时间 2024-08-17 02:15:35
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 681
-# mitm: 716
+# reject: 682
+# mitm: 717
 # force-http-engine-hosts: 6
-# total: 1442
+# total: 1444
 
 
 
@@ -479,6 +479,7 @@ http:
     - ^https?:\/\/m-adphone\.wenhua\.com\.cn\/ - reject
     - ^https?:\/\/m5\.amap\.com\/ws\/valueadded\/ - reject
     - ^https?:\/\/m\.ads\.8le8le\.com\/adShow - reject
+    - ^https?:\/\/m\.api\.shaoxing\.com\.cn\/v\d\/start - reject
     - ^https?:\/\/m\.caijing\.com\.cn\/startup_ad_ios\.html$ - reject
     - ^https?:\/\/m\.client\.10010\.com\/mobileService\/(activity|customer)\/(accountListData|get_client_adv|get_startadv) - reject
     - ^https?:\/\/m\.client\.10010\.com\/uniAdmsInterface\/(getHomePageAd|getWelcomeAd) - reject
@@ -1318,6 +1319,7 @@ http:
     - "m-adphone.wenhua.com.cn"
     - "m-cloud.zhihu.com"
     - "m.ads.8le8le.com"
+    - "m.api.shaoxing.com.cn"
     - "m.caijing.com.cn"
     - "m.client.10010.com"
     - "m.ctrip.com"

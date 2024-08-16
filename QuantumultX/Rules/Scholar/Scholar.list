@@ -1,7 +1,7 @@
 # NAME: Scholar
-# UPDATED: 2024-07-03 16:16:12
-# HOST-SUFFIX: 225
-# TOTAL: 225
+# UPDATED: 2024-08-17 02:12:04
+# HOST-SUFFIX: 228
+# TOTAL: 228
 HOST-SUFFIX,1lib.cloud,Scholar
 HOST-SUFFIX,1lib.domains,Scholar
 HOST-SUFFIX,1lib.education,Scholar
@@ -63,6 +63,7 @@ HOST-SUFFIX,cas.org,Scholar
 HOST-SUFFIX,cell.com,Scholar
 HOST-SUFFIX,clarivate.com,Scholar
 HOST-SUFFIX,cnki.net,Scholar
+HOST-SUFFIX,computer.org,Scholar
 HOST-SUFFIX,computingreviews.com,Scholar
 HOST-SUFFIX,cqvip.com,Scholar
 HOST-SUFFIX,crossref.org,Scholar
@@ -94,6 +95,8 @@ HOST-SUFFIX,hk1lib.org,Scholar
 HOST-SUFFIX,ic.ac.uk,Scholar
 HOST-SUFFIX,icevirtuallibrary.com,Scholar
 HOST-SUFFIX,ieee.org,Scholar
+HOST-SUFFIX,ieeecomputer.org,Scholar
+HOST-SUFFIX,ieeecomputersociety.org,Scholar
 HOST-SUFFIX,imf.org,Scholar
 HOST-SUFFIX,imperial.ac.uk,Scholar
 HOST-SUFFIX,imperial.insendi.com,Scholar

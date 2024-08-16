@@ -61,6 +61,7 @@ domain_suffix_set:
 - cas.org
 - cell.com
 - clarivate.com
+- computer.org
 - computingreviews.com
 - cqvip.com
 - crossref.org
@@ -92,6 +93,8 @@ domain_suffix_set:
 - ic.ac.uk
 - icevirtuallibrary.com
 - ieee.org
+- ieeecomputer.org
+- ieeecomputersociety.org
 - imf.org
 - imperial.ac.uk
 - imperial.insendi.com

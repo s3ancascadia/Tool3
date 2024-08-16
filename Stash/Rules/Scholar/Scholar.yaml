@@ -1,7 +1,7 @@
 # NAME: Scholar
-# UPDATED: 2024-07-03 16:16:12
-# DOMAIN-SUFFIX: 225
-# TOTAL: 225
+# UPDATED: 2024-08-17 02:12:04
+# DOMAIN-SUFFIX: 228
+# TOTAL: 228
 payload:
   - DOMAIN-SUFFIX,1lib.cloud
   - DOMAIN-SUFFIX,1lib.domains
@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,cell.com
   - DOMAIN-SUFFIX,clarivate.com
   - DOMAIN-SUFFIX,cnki.net
+  - DOMAIN-SUFFIX,computer.org
   - DOMAIN-SUFFIX,computingreviews.com
   - DOMAIN-SUFFIX,cqvip.com
   - DOMAIN-SUFFIX,crossref.org
@@ -95,6 +96,8 @@ payload:
   - DOMAIN-SUFFIX,ic.ac.uk
   - DOMAIN-SUFFIX,icevirtuallibrary.com
   - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,ieeecomputer.org
+  - DOMAIN-SUFFIX,ieeecomputersociety.org
   - DOMAIN-SUFFIX,imf.org
   - DOMAIN-SUFFIX,imperial.ac.uk
   - DOMAIN-SUFFIX,imperial.insendi.com
