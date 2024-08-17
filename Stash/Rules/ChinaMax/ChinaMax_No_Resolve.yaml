@@ -1,13 +1,13 @@
 # NAME: ChinaMax
-# UPDATED: 2024-08-17 02:13:17
-# DOMAIN: 427
+# UPDATED: 2024-08-18 02:12:42
+# DOMAIN: 426
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 90675
+# DOMAIN-SUFFIX: 92356
 # IP-ASN: 1
-# IP-CIDR: 8058
-# IP-CIDR6: 11814
+# IP-CIDR: 8059
+# IP-CIDR6: 11815
 # PROCESS-NAME: 14
-# TOTAL: 111002
+# TOTAL: 112684
 payload:
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
@@ -18,10 +18,10 @@ payload:
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,bilibili
-  - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,hnagroup
   - DOMAIN-KEYWORD,stripe
   - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,qiyi
   - PROCESS-NAME,com.taobao.taobao
   - PROCESS-NAME,com.bilibili.app.blue
   - PROCESS-NAME,com.bilibili.app.in

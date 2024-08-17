@@ -5,7 +5,6 @@ domain_set:
 - aegir.sexy
 - amigacity.xyz
 - bandito.byterunner.io
-- bittorrent-tracker.e-n-c-r-y-p-t.net
 - bittorrent.service.gongt.me
 - bt.ktrackers.com
 - bt.okmp3.ru
@@ -13,7 +12,6 @@ domain_set:
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
-- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -22,12 +20,11 @@ domain_set:
 - evan.im
 - exodus.desync.com
 - explodie.org
-- free.publictracker.xyz
-- freedomalternative.com
 - ipv4.rer.lol
 - ipv6.rer.lol
 - isk.richardsw.club
 - jutone.com
+- leet-tracker.moe
 - mail.artixlinux.org
 - martin-gebhardt.eu
 - moonburrow.club
@@ -37,6 +34,7 @@ domain_set:
 - open.demonii.com
 - open.demonoid.ch
 - open.dstud.io
+- open.free-tracker.ga
 - open.publictracker.xyz
 - open.stealth.si
 - open.tracker.cl
@@ -61,8 +59,11 @@ domain_set:
 - tk.greedland.net
 - tk2.trackerservers.com
 - tk2v6.trackerservers.com
+- torrent.tracker.durukanbal.com
+- torrents.artixlinux.org
 - torrentsmd.com
 - tr.burnabyhighstar.com
+- tr.kxmp.cf
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
 - tracker.0x7c0.com
@@ -86,7 +87,6 @@ domain_set:
 - tracker.fnix.net
 - tracker.gcrenwp.top
 - tracker.gmi.gd
-- tracker.imgoingto.icu
 - tracker.ipfsscan.io
 - tracker.ipv6tracker.org
 - tracker.jamesthebard.net
@@ -102,6 +102,7 @@ domain_set:
 - tracker.skyts.net
 - tracker.srv00.com
 - tracker.tamersunion.org
+- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
 - tracker.torrust-demo.com
