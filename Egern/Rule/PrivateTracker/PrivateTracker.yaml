@@ -2,15 +2,17 @@ no_resolve: true
 domain_set:
 - 1337.abcvg.info
 - 1c.premierzal.ru
-- aegir.sexy
 - amigacity.xyz
 - bandito.byterunner.io
+- bittorrent-tracker.e-n-c-r-y-p-t.net
+- bittorrent.service.gongt.me
 - bt.ktrackers.com
 - bt.okmp3.ru
 - bt.rer.lol
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
+- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -19,10 +21,8 @@ domain_set:
 - evan.im
 - exodus.desync.com
 - explodie.org
-- free.publictracker.xyz
 - ipv4.rer.lol
 - ipv6.rer.lol
-- isk.richardsw.club
 - jutone.com
 - leet-tracker.moe
 - mail.artixlinux.org
@@ -44,6 +44,7 @@ domain_set:
 - opentracker.io
 - p2p.publictracker.xyz
 - p4p.arenabg.com
+- public.tracker.vraphim.com
 - pybittrack.retiolus.net
 - retracker.hotplug.ru
 - retracker.x2k.ru
@@ -55,6 +56,7 @@ domain_set:
 - t.overflow.biz
 - t1.aag.moe
 - tamas3.ynh.fr
+- threads.canofsocks.com
 - tk.greedland.net
 - tk2.trackerservers.com
 - tk2v6.trackerservers.com
@@ -64,10 +66,12 @@ domain_set:
 - tr.abir.ga
 - tr.burnabyhighstar.com
 - tr.kxmp.cf
+- trackarr.org
 - tracker-udp.gbitt.info
 - tracker-zhuqiy.dgj055.icu
 - tracker.0x7c0.com
 - tracker.birkenwald.de
+- tracker.bittor.pw
 - tracker.breizh.pm
 - tracker.bt4g.com
 - tracker.ccp.ovh
@@ -119,7 +123,6 @@ domain_set:
 - trackers.mlsub.net
 - trackers.run
 - ttk2.nbaonlineservice.com
-- u.peer-exchange.download
 - u4.trakx.crim.ist
 - u6.trakx.crim.ist
 - www.all4nothin.net
