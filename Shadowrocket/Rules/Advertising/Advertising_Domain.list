@@ -1,12 +1,12 @@
 # NAME: Advertising
-# UPDATED: 2024-08-21 02:09:01
+# UPDATED: 2024-08-22 02:09:07
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 16327
+# DOMAIN: 16328
 # DOMAIN-KEYWORD: 259
-# DOMAIN-SUFFIX: 136331
+# DOMAIN-SUFFIX: 136339
 # IP-CIDR: 446
 # URL-REGEX: 12
-# TOTAL: 153375
+# TOTAL: 153384
 .0.code.cotsta.ru
 .0.myikas.com
 .0.net.easyjet.com
@@ -10505,6 +10505,7 @@
 .adtrader.com
 .adtraf.pro
 .adtraff.ru
+.adtrafficquality.google
 .adtrak.net
 .adtraxx.de
 .adtrgt.com
@@ -17848,6 +17849,7 @@
 .baijs06.xyz
 .baijs07.shop
 .baijs07.xyz
+.baijs08.shop
 .baijs08.xyz
 .baikalize.com
 .baike.biz
@@ -29320,7 +29322,6 @@
 .counter.webmedia.pl
 .counter.websiteout.net
 .counter.websitevoice.com
-.counter.wikiwiki.jp
 .counter.xxxcool.com
 .counter.yesky.com
 .counter.zerohedge.com
@@ -32271,6 +32272,7 @@
 .dab.rus-km.ru
 .dabaicai.cn
 .dabaicai.com
+.dabajd.xyz
 .dabaoku.com
 .dabblercissies.com
 .dabbyfather.com
@@ -36582,6 +36584,7 @@
 .doujs06.xyz
 .doujs07.shop
 .doujs07.xyz
+.doujs08.shop
 .doujs08.xyz
 .doujs09.xyz
 .doukekan.cn
@@ -41935,7 +41938,6 @@
 .exactdrive.com
 .exactsag.com
 .exacttarget.api.mashery.com
-.exacttarget.com
 .exaggeratekindnessvocal.com
 .exaggeratestamppost.com
 .exaleprn.com
@@ -52417,6 +52419,7 @@
 .hewokhn.com
 .hewomenentail.com
 .hewonderfulst.info
+.hewrutu.top
 .hexapinow.xyz
 .hexcan.com
 .hexcvb.xyz
@@ -61763,6 +61766,7 @@
 .jyjhjopmq.com
 .jyjhkz.com
 .jyjmpatmgk.com
+.jyjrbz.xyz
 .jylemdzkh.com
 .jylgvkxgfy.com
 .jynginedoddle.top
@@ -62892,6 +62896,7 @@
 .kjvnfhdgb.com
 .kjwx8.com
 .kjwysxs.cn
+.kjxhd.cn
 .kjxmcn.eset.com
 .kjxztu.biz-journal.jp
 .kjyouhp.com
@@ -63952,7 +63957,6 @@
 .l.apna.co
 .l.audibook.si
 .l.azarlive.com
-.l.bfmtv.com
 .l.bhaibandhu.com
 .l.bigbasket.com
 .l.biglion.ru
@@ -75527,6 +75531,7 @@
 .mixtraff.com
 .mixxuo.sportys.gr
 .mixykails.com
+.miycoc.xyz
 .miyqoyyazdal.com
 .miyudaquan.top
 .mizensdisney.com
@@ -79861,6 +79866,7 @@
 .ningtoldrop.ru
 .ningxiayy.com
 .ninja.akamaized.net
+.ninja.data.olxcdn.com
 .ninja.onap.io
 .ninjacat.io
 .ninkorant.online
@@ -98133,6 +98139,7 @@
 .sc1369.com
 .sc2.constantcontact.com
 .sc2.infor.com
+.sc2metrics.exacttarget.com
 .sc4mh.cn
 .scaakxxobpp.com
 .scabbienne.com
@@ -98348,6 +98355,7 @@
 .sclrnnp.com
 .scluster3.cliphunter.com
 .scmarketing.colliers.com
+.scmetrics.exacttarget.com
 .scmetrics.shell.com
 .scmetrics.vodafone.it
 .scmn0di.com
@@ -141346,6 +141354,7 @@ ewitsorrgm.com
 ewrdeqrktgcu.com
 ewvugujfhi.com
 ex.technor.com
+exacttarget.com
 exacttargetapis.com
 exanahjkwz.com
 exceptionlog.kugou.com
