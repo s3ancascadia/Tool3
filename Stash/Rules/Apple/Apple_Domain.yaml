@@ -1,5 +1,5 @@
 # NAME: Apple
-# UPDATED: 2024-08-22 02:10:28
+# UPDATED: 2024-08-23 02:10:24
 # DOMAIN: 10
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1549
@@ -1512,7 +1512,6 @@ payload:
   - '+.apple-dns.net'
   - '+.apple.news'
   - '+.appsto.re'
-  - '+.cdn-apple.com'
   - '+.digicert.com'
   - '+.apple-cloudkit.com'
   - '+.apple-icloud.cn'
@@ -1520,6 +1519,7 @@ payload:
   - '+.appleicloud.cn'
   - '+.applemx-icloud.com'
   - '+.apzones.com'
+  - '+.cdn-apple.com'
   - '+.icloud-apple.cn'
   - '+.icloud-content.com'
   - '+.icloud-isupport.com'

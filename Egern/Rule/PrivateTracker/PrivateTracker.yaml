@@ -5,12 +5,12 @@ domain_set:
 - aegir.sexy
 - amigacity.xyz
 - bandito.byterunner.io
+- bittorrent-tracker.e-n-c-r-y-p-t.net
+- bt.ktrackers.com
 - bt.okmp3.ru
-- bt.rer.lol
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
-- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -18,10 +18,10 @@ domain_set:
 - epider.me
 - evan.im
 - exodus.desync.com
-- ipv4.rer.lol
-- ipv6.rer.lol
+- explodie.org
 - isk.richardsw.club
 - jutone.com
+- leet-tracker.moe
 - mail.artixlinux.org
 - martin-gebhardt.eu
 - moonburrow.club
@@ -41,6 +41,7 @@ domain_set:
 - opentracker.io
 - p2p.publictracker.xyz
 - p4p.arenabg.com
+- public.tracker.vraphim.com
 - pybittrack.retiolus.net
 - retracker.hotplug.ru
 - retracker.x2k.ru
@@ -57,6 +58,7 @@ domain_set:
 - tk2v6.trackerservers.com
 - torrents.artixlinux.org
 - torrentsmd.com
+- tr.abir.ga
 - tr.burnabyhighstar.com
 - tr.kxmp.cf
 - trackarr.org
@@ -64,7 +66,6 @@ domain_set:
 - tracker-zhuqiy.dgj055.icu
 - tracker.0x7c0.com
 - tracker.birkenwald.de
-- tracker.bittor.pw
 - tracker.breizh.pm
 - tracker.bt4g.com
 - tracker.ccp.ovh
@@ -98,6 +99,7 @@ domain_set:
 - tracker.skyts.net
 - tracker.srv00.com
 - tracker.tamersunion.org
+- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
 - tracker.tryhackx.org
@@ -106,7 +108,6 @@ domain_set:
 - tracker1.520.jp
 - tracker1.bt.moack.co.kr
 - tracker1.itzmx.com
-- tracker1.myporn.club
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
@@ -116,6 +117,7 @@ domain_set:
 - ttk2.nbaonlineservice.com
 - u4.trakx.crim.ist
 - u6.trakx.crim.ist
+- wepzone.net
 - www.all4nothin.net
 - www.peckservers.com
 - www.torrent.eu.org

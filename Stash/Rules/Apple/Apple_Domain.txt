@@ -1,5 +1,5 @@
 # NAME: Apple
-# UPDATED: 2024-08-22 02:10:28
+# UPDATED: 2024-08-23 02:10:24
 # DOMAIN: 10
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1549
@@ -1511,7 +1511,6 @@ p-events-delivery.akamaized.net
 .apple-dns.net
 .apple.news
 .appsto.re
-.cdn-apple.com
 .digicert.com
 .apple-cloudkit.com
 .apple-icloud.cn
@@ -1519,6 +1518,7 @@ p-events-delivery.akamaized.net
 .appleicloud.cn
 .applemx-icloud.com
 .apzones.com
+.cdn-apple.com
 .icloud-apple.cn
 .icloud-content.com
 .icloud-isupport.com
