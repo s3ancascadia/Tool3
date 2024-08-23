@@ -2,15 +2,14 @@ no_resolve: true
 domain_set:
 - 1337.abcvg.info
 - 1c.premierzal.ru
-- aegir.sexy
 - amigacity.xyz
 - bandito.byterunner.io
 - bittorrent-tracker.e-n-c-r-y-p-t.net
-- bt.ktrackers.com
 - bt.okmp3.ru
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
+- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -29,7 +28,6 @@ domain_set:
 - nyaa.tracker.wf
 - odd-hd.fr
 - open.demonii.com
-- open.demonoid.ch
 - open.dstud.io
 - open.free-tracker.ga
 - open.publictracker.xyz
@@ -53,6 +51,7 @@ domain_set:
 - t.overflow.biz
 - t1.aag.moe
 - tamas3.ynh.fr
+- threads.canofsocks.com
 - tk.greedland.net
 - tk2.trackerservers.com
 - tk2v6.trackerservers.com
@@ -66,9 +65,9 @@ domain_set:
 - tracker-zhuqiy.dgj055.icu
 - tracker.0x7c0.com
 - tracker.birkenwald.de
+- tracker.bittor.pw
 - tracker.breizh.pm
 - tracker.bt4g.com
-- tracker.ccp.ovh
 - tracker.cloudit.top
 - tracker.cyberia.is
 - tracker.darkness.services
@@ -99,7 +98,6 @@ domain_set:
 - tracker.skyts.net
 - tracker.srv00.com
 - tracker.tamersunion.org
-- tracker.theoks.net
 - tracker.tiny-vps.com
 - tracker.torrent.eu.org
 - tracker.tryhackx.org
@@ -108,6 +106,7 @@ domain_set:
 - tracker1.520.jp
 - tracker1.bt.moack.co.kr
 - tracker1.itzmx.com
+- tracker1.myporn.club
 - tracker2.dler.org
 - tracker2.itzmx.com
 - tracker3.itzmx.com
