@@ -10,7 +10,6 @@ domain_set:
 - bt1.archive.org
 - bt2.archive.org
 - bvarf.tracker.sh
-- canardscitrons.nohost.me
 - ch3oh.ru
 - concen.org
 - d40969.acod.regrucolo.ru
@@ -19,11 +18,13 @@ domain_set:
 - exodus.desync.com
 - explodie.org
 - ipv4.rer.lol
+- isk.richardsw.club
 - jutone.com
 - leet-tracker.moe
 - mail.artixlinux.org
 - martin-gebhardt.eu
 - moonburrow.club
+- new-line.net
 - ns575949.ip-51-222-82.net
 - nyaa.tracker.wf
 - odd-hd.fr
@@ -48,6 +49,7 @@ domain_set:
 - run.publictracker.xyz
 - ryjer.com
 - seedpeer.net
+- smurfsoft.com
 - t.overflow.biz
 - t1.aag.moe
 - tamas3.ynh.fr
@@ -60,12 +62,14 @@ domain_set:
 - tr.abir.ga
 - tr.burnabyhighstar.com
 - tr.kxmp.cf
+- tr.ready4.icu
 - trackarr.org
 - tracker-udp.gbitt.info
 - tracker-us.silksa.co.za
 - tracker-zhuqiy.dgj055.icu
 - tracker.0x7c0.com
 - tracker.birkenwald.de
+- tracker.bittor.pw
 - tracker.breizh.pm
 - tracker.bt4g.com
 - tracker.ccp.ovh
@@ -75,6 +79,7 @@ domain_set:
 - tracker.deadorbit.nl
 - tracker.dler.com
 - tracker.dler.org
+- tracker.dump.cl
 - tracker.edkj.club
 - tracker.electro-torrent.pl
 - tracker.farted.net
@@ -92,7 +97,6 @@ domain_set:
 - tracker.opentrackr.org
 - tracker.openwebtorrent.com
 - tracker.pmman.tech
-- tracker.qu.ax
 - tracker.renfei.net
 - tracker.skynetcloud.site
 - tracker.skyts.net

@@ -1,5 +1,5 @@
 # NAME: Apple
-# UPDATED: 2024-08-25 02:09:35
+# UPDATED: 2024-08-26 02:09:23
 # DOMAIN: 10
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1549
@@ -1524,7 +1524,6 @@ p-events-delivery.akamaized.net
 .appleenews.com
 .applemusic.berlin
 .applemusic.co
-.applemusic.com
 .applemusic.com.au
 .applemusic.hamburg
 .applemusic.wang
@@ -1557,6 +1556,7 @@ p-events-delivery.akamaized.net
 .iphoto.wang
 .musickit.net
 .wwwapplemusic.com
+.applemusic.com
 .apple-dns.net
 .apple.news
 .appsto.re
