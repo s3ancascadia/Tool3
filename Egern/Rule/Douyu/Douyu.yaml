@@ -1,5 +1,6 @@
 domain_set:
 domain_suffix_set:
+- bytefcdnrd.com
 - douyu.com
 - douyu.tv
 - douyuba.cn
@@ -9,6 +10,7 @@ domain_suffix_set:
 - douyuscdn.com
 - douyutv.com
 - doyonoc.com
+- edgesrv.com
 - oywtv.com
 domain_keyword_set:
 domain_regex_set:

@@ -1,7 +1,8 @@
 # NAME: Douyu
-# UPDATED: 2024-07-03 16:16:37
-# HOST-SUFFIX: 10
-# TOTAL: 10
+# UPDATED: 2024-08-28 02:12:20
+# HOST-SUFFIX: 12
+# TOTAL: 12
+HOST-SUFFIX,bytefcdnrd.com,Douyu
 HOST-SUFFIX,douyu.com,Douyu
 HOST-SUFFIX,douyu.tv,Douyu
 HOST-SUFFIX,douyuba.cn,Douyu
@@ -11,4 +12,5 @@ HOST-SUFFIX,douyupcdn.cn,Douyu
 HOST-SUFFIX,douyuscdn.com,Douyu
 HOST-SUFFIX,douyutv.com,Douyu
 HOST-SUFFIX,doyonoc.com,Douyu
+HOST-SUFFIX,edgesrv.com,Douyu
 HOST-SUFFIX,oywtv.com,Douyu

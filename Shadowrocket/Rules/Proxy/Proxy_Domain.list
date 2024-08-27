@@ -1,11 +1,11 @@
 # NAME: Proxy
-# UPDATED: 2024-08-16 02:12:36
+# UPDATED: 2024-08-28 02:11:48
 # DOMAIN: 12
 # DOMAIN-KEYWORD: 28
-# DOMAIN-SUFFIX: 5916
+# DOMAIN-SUFFIX: 5917
 # IP-CIDR: 100
 # USER-AGENT: 9
-# TOTAL: 6065
+# TOTAL: 6066
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -1067,6 +1067,7 @@
 .comodoca.com
 .comparitech.com
 .compileheart.com
+.compose-spec.io
 .compress.to
 .compython.net
 .conoha.jp
@@ -1304,6 +1305,7 @@
 .dnssec.net
 .docker.com
 .docker.io
+.dockerhub.com
 .doctorvoice.org
 .documentingreality.com
 .dogfartnetwork.com
@@ -5255,7 +5257,6 @@
 .us.to
 .usacn.com
 .usaip.eu
-.usc.edu
 .uscardforum.com
 .uscnpm.org
 .usembassy.gov

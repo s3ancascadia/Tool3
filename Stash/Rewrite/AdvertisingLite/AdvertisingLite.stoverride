@@ -1,9 +1,9 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2024-08-21 02:15:41
-# reject: 1154
-# mitm: 849
+desc: 最后更新时间 2024-08-28 02:15:38
+# reject: 1155
+# mitm: 850
 # force-http-engine-hosts: 6
-# total: 2009
+# total: 2011
 
 
 
@@ -1101,6 +1101,7 @@ http:
     - ^https?:\/\/www\.xiaoxiongmeishu\.com\/api\/home\/v1\/config\/appInit\?uid=588888763519696896 - reject
     - ^https?:\/\/www\.xqpark\.cn\/xqParkApp\/resource\/getResource - reject
     - ^https?:\/\/www\.zjyilin\.com\/hykweb\/\/index\/openImg - reject
+    - ^https?:\/\/www\.zybang\.com\/adx\/ - reject
     - ^https?:\/\/wx\.17u\.cn\/crapi\/query\/getAdImgUrlByCode - reject
     - ^https?:\/\/wx\.17u\.cn\/xcxhomeapi\/((aggregator\/index)|(home\/(screen|banner|converge)))$ - reject
     - ^https?:\/\/xapi\.xinmanhua\.net\/splashgroups\?include=splashs - reject
@@ -1998,6 +1999,7 @@ http:
     - "www.xqpark.cn"
     - "www.ymm56.com"
     - "www.zjyilin.com"
+    - "www.zybang.com"
     - "www1.elecfans.com"
     - "wx.17u.cn"
     - "wxs-weixin.sd.zhumanggroup.com"

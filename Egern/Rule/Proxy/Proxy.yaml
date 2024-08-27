@@ -9,6 +9,9 @@ domain_set:
 - cloud.oracle.com
 - copilot.microsoft.com
 - cvws.icloud-content.com
+- d1q6f0aelx0por.cloudfront.net
+- d2wy8f7a9ursnm.cloudfront.net
+- d36jcksde1wxzq.cloudfront.net
 - developer.apple.com
 - lens.l.google.com
 - location.microsoft.com
@@ -1162,6 +1165,7 @@ domain_suffix_set:
 - comodoca.com
 - comparitech.com
 - compileheart.com
+- compose-spec.io
 - compress.to
 - compython.net
 - conoha.jp
@@ -1405,6 +1409,7 @@ domain_suffix_set:
 - dnssec.net
 - docker.com
 - docker.io
+- dockerhub.com
 - doctorvoice.org
 - documentingreality.com
 - dogfartnetwork.com
@@ -5694,7 +5699,6 @@ domain_suffix_set:
 - us.to
 - usacn.com
 - usaip.eu
-- usc.edu
 - uscardforum.com
 - uscnpm.org
 - usembassy.gov
